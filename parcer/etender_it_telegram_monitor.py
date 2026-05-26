@@ -125,13 +125,12 @@ def is_it_tender(event: dict[str, Any]) -> bool:
 def get_requests_session() -> requests.Session:
     """Create a requests Session configured with retries/backoff."""
     session = requests.Session()
-    # Use fewer total retries and shorter backoff to fail faster in CI
-    # Reduce retry counts and backoff so we don't hang too long on network problems
+    # For VPS/deployment: increase retries and backoff for reliability
     retries = Retry(
-        total=2,
-        connect=2,
-        read=2,
-        backoff_factor=0.3,
+        total=4,
+        connect=4,
+        read=4,
+        backoff_factor=0.5,
         status_forcelist=(429, 500, 502, 503, 504),
         allowed_methods=("GET", "POST"),
     )
@@ -160,8 +159,8 @@ def fetch_page(page_number: int, page_size: int = 15, event_status: int = 1) -> 
 
     # Use a session with retries to tolerate transient network errors
     session = get_requests_session()
-    # Use a shorter connect/read timeout so CI/Actions fail fast on network issues
-    response = session.get(API_URL, params=params, timeout=15)
+    # For VPS: allow a longer timeout to tolerate slow network responses
+    response = session.get(API_URL, params=params, timeout=30)
     response.raise_for_status()
     return response.json()
 
@@ -244,8 +243,8 @@ def send_telegram_message(bot_token: str, chat_id: str, message: str) -> None:
         "disable_web_page_preview": True,
     }
     session = get_requests_session()
-    # Use a shorter timeout in CI so failures are fast and handled upstream
-    response = session.post(url, json=payload, timeout=8)
+    # For VPS: give Telegram API a bit more time to respond
+    response = session.post(url, json=payload, timeout=12)
     response.raise_for_status()
 
 
