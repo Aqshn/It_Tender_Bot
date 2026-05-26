@@ -1,0 +1,65 @@
+{
+    "source": "https://lalafo.az",
+    "category": "Uşaq dünyası",
+    "sellers": [
+        {
+            "seller_id": "17667751",
+            "shop_name": "beboline. az",
+            "shop_url": "https://lalafo.az/user/17667751",
+            "mobile_numbers": [
+                "+994555511216"
+            ],
+            "categories": [
+                "Uşaq dünyası"
+            ],
+            "ads_count": 2
+        },
+        {
+            "seller_id": "16542314",
+            "shop_name": "Bytahire home",
+            "shop_url": "https://lalafo.az/user/16542314",
+            "mobile_numbers": [
+                "+994708260910"
+            ],
+            "categories": [
+                "Uşaq dünyası"
+            ],
+            "ads_count": 2
+        },
+        {
+            "seller_id": "12104431",
+            "shop_name": "Sexdən satış",
+            "shop_url": "https://lalafo.az/user/12104431",
+            "mobile_numbers": [
+                "+994552523972",
+                "+994552526972"
+            ],
+            "categories": [
+                "Uşaq dünyası"
+            ],
+            "ads_count": 1
+        },
+        {
+            "seller_id": "10799039",
+            "shop_name": "Uşaq Aləmi / Məhsulları",
+            "shop_url": "https://lalafo.az/user/10799039",
+            "mobile_numbers": [
+                "+994708918889"
+            ],
+            "categories": [
+                "Uşaq dünyası"
+            ],
+            "ads_count": 3
+        },
+        {
+            "seller_id": "13739124",
+            "shop_name": "Əli",
+            "shop_url": "https://lalafo.az/user/13739124",
+            "mobile_numbers": [],
+            "categories": [
+                "Uşaq dünyası"
+            ],
+            "ads_count": 1
+        }
+    ]
+}

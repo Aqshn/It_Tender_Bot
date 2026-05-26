@@ -22,6 +22,8 @@ GitHub Actions üçün repository secrets əlavə et:
 
 Ətraflı addımlar: [GITHUB_SECRETS.md](GITHUB_SECRETS.md)
 
+Qeyd: birdən çox chat-a göndərmək üçün `TELEGRAM_CHAT_IDS` (vergüllə ayrılmış) istifadə edə bilərsən.
+
 ### GitHub Actions
 
 Workflow faylı: `.github/workflows/etender-it-monitor.yml`

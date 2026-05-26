@@ -1,0 +1,2671 @@
+{
+  "source": "https://turbo.az/avtosalonlar",
+  "total_saloons": 290,
+  "saloons": [
+    {
+      "name": "Changan Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/changan-azerbaijan",
+      "ads_count": 40,
+      "mobile_numbers": [
+        "*5544",
+        "+994516388900"
+      ]
+    },
+    {
+      "name": "Dəniz Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-daniz-cars",
+      "ads_count": 35,
+      "mobile_numbers": [
+        "+994559461199",
+        "+994556117787"
+      ]
+    },
+    {
+      "name": "MM Auto Line",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-auto-line",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994502101087",
+        "+994552802929"
+      ]
+    },
+    {
+      "name": "Avtosalon \"008\"",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-008",
+      "ads_count": 14,
+      "mobile_numbers": [
+        "+994502080820",
+        "+994552080820",
+        "+994124243144"
+      ]
+    },
+    {
+      "name": "Kia Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/kiamotorsazerbaijan",
+      "ads_count": 4,
+      "mobile_numbers": [
+        "+994503036060",
+        "+994703036060",
+        "+994553036060",
+        "+994513036060",
+        "+994125700101"
+      ]
+    },
+    {
+      "name": "Audi Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/audi-azerbaijan",
+      "ads_count": 19,
+      "mobile_numbers": [
+        "*2299"
+      ]
+    },
+    {
+      "name": "Hyundai Babək Diler",
+      "url": "https://turbo.az/avtosalonlar/hyundai-babek",
+      "ads_count": 15,
+      "mobile_numbers": [
+        "+994508000989",
+        "+994558788737",
+        "+994505000989",
+        "989"
+      ]
+    },
+    {
+      "name": "China Good Friend",
+      "url": "https://turbo.az/avtosalonlar/china-good-friend",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "+994996555777"
+      ]
+    },
+    {
+      "name": "UAZ Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/uaz-azerbaijan",
+      "ads_count": 11,
+      "mobile_numbers": [
+        "+994102142184"
+      ]
+    },
+    {
+      "name": "Mega Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-mega-cars",
+      "ads_count": 50,
+      "mobile_numbers": [
+        "+994507115050",
+        "+994707115050",
+        "+994997115050"
+      ]
+    },
+    {
+      "name": "SRJ Motors",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-srj-motors",
+      "ads_count": 8,
+      "mobile_numbers": [
+        "+994552123080"
+      ]
+    },
+    {
+      "name": "China Elektrik Motors",
+      "url": "https://turbo.az/avtosalonlar/importer-china-elektrik-motors",
+      "ads_count": 24,
+      "mobile_numbers": [
+        "+994505685517",
+        "+994554863137"
+      ]
+    },
+    {
+      "name": "KYC Trucks Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/kyc-trucks-azerbaijan",
+      "ads_count": 3,
+      "mobile_numbers": [
+        "+994557751313",
+        "+994707751313"
+      ]
+    },
+    {
+      "name": "BENDA Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/benda-azerbaijan",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994702074450",
+        "+994101007878"
+      ]
+    },
+    {
+      "name": "Li Auto Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/li-auto-azerbaijan",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "*2299"
+      ]
+    },
+    {
+      "name": "Polaris Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/polaris-azerbaijan",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994502084545",
+        "+994125540256"
+      ]
+    },
+    {
+      "name": "500 Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-500",
+      "ads_count": 31,
+      "mobile_numbers": [
+        "+994702311100"
+      ]
+    },
+    {
+      "name": "Avtosalon \"222\"",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-222-sumqayit",
+      "ads_count": 11,
+      "mobile_numbers": [
+        "+994554390222",
+        "+994506248322",
+        "+994773918222"
+      ]
+    },
+    {
+      "name": "100 Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-100cars",
+      "ads_count": 47,
+      "mobile_numbers": [
+        "+994552152626",
+        "+994702152626",
+        "+994992152626",
+        "+994102152626"
+      ]
+    },
+    {
+      "name": "Nissan Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/nissan-azerbaijan",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "+994505550934",
+        "+994705550934"
+      ]
+    },
+    {
+      "name": "AvtoSum",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-avtosum",
+      "ads_count": 33,
+      "mobile_numbers": [
+        "+994557994585",
+        "+994506929191",
+        "+994516929191"
+      ]
+    },
+    {
+      "name": "039 Cars Sumqayıt",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-039",
+      "ads_count": 58,
+      "mobile_numbers": [
+        "+994503990039",
+        "+994553881039"
+      ]
+    },
+    {
+      "name": "021 Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-021-cars",
+      "ads_count": 72,
+      "mobile_numbers": [
+        "+994998910021",
+        "+994513050021",
+        "+994707910021"
+      ]
+    },
+    {
+      "name": "Elektromobil",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-elektromobil",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994774999499"
+      ]
+    },
+    {
+      "name": "Neptun",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-neptun",
+      "ads_count": 18,
+      "mobile_numbers": [
+        "+994772999919",
+        "+994772999979"
+      ]
+    },
+    {
+      "name": "AVATR Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/avatr-azerbaijan",
+      "ads_count": 6,
+      "mobile_numbers": [
+        "*5544",
+        "+994516388900"
+      ]
+    },
+    {
+      "name": "Lider",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-lider",
+      "ads_count": 47,
+      "mobile_numbers": [
+        "+994553707722",
+        "+994552703040"
+      ]
+    },
+    {
+      "name": "Start Avto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-start-avto",
+      "ads_count": 18,
+      "mobile_numbers": [
+        "+994554459707",
+        "+994553515110",
+        "+994124251705"
+      ]
+    },
+    {
+      "name": "H-Moto",
+      "url": "https://turbo.az/avtosalonlar/h-moto",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994554788899",
+        "+994706791999"
+      ]
+    },
+    {
+      "name": "Carpax Europe",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-carpax-europe",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "+994505332332"
+      ]
+    },
+    {
+      "name": "Abşeron Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-absheron-cars",
+      "ads_count": 63,
+      "mobile_numbers": [
+        "+994507833950",
+        "+994557833950",
+        "+994707833950"
+      ]
+    },
+    {
+      "name": "Autoport",
+      "url": "https://turbo.az/avtosalonlar/autoport",
+      "ads_count": 38,
+      "mobile_numbers": [
+        "+994557444492",
+        "+994707145454"
+      ]
+    },
+    {
+      "name": "Azərmaş Xırdalan",
+      "url": "https://turbo.az/avtosalonlar/azermash-xirdalan",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994502108892"
+      ]
+    },
+    {
+      "name": "Fex Auto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-fex-auto",
+      "ads_count": 1,
+      "mobile_numbers": [
+        "+994513338808",
+        "+994551004314"
+      ]
+    },
+    {
+      "name": "Bentley Baku",
+      "url": "https://turbo.az/avtosalonlar/bentley",
+      "ads_count": 22,
+      "mobile_numbers": [
+        "+994124048282",
+        "+994502163538"
+      ]
+    },
+    {
+      "name": "Auto Gallery",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-autogallery",
+      "ads_count": 8,
+      "mobile_numbers": [
+        "+994123419000",
+        "+994707000047"
+      ]
+    },
+    {
+      "name": "Avtosalon N1",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-n1",
+      "ads_count": 12,
+      "mobile_numbers": [
+        "+994776779999",
+        "+994513142338",
+        "+994703142338",
+        "+994993142338"
+      ]
+    },
+    {
+      "name": "R-M Motors",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-r-m-motors",
+      "ads_count": 29,
+      "mobile_numbers": [
+        "+994552000011"
+      ]
+    },
+    {
+      "name": "Electric Auto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-electric-auto",
+      "ads_count": 15,
+      "mobile_numbers": [
+        "+994774704040",
+        "+994774804040"
+      ]
+    },
+    {
+      "name": "GWM - Great Wall Motor",
+      "url": "https://turbo.az/avtosalonlar/gwm-azerbaijan",
+      "ads_count": 16,
+      "mobile_numbers": [
+        "*7999",
+        "+994556782424",
+        "+994556792323"
+      ]
+    },
+    {
+      "name": "Auto Shop",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-auto-shop",
+      "ads_count": 78,
+      "mobile_numbers": [
+        "+994552530351"
+      ]
+    },
+    {
+      "name": "006 Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-006-cars",
+      "ads_count": 17,
+      "mobile_numbers": [
+        "+994555560606"
+      ]
+    },
+    {
+      "name": "Bestune Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/bestune-azerbaijan",
+      "ads_count": 6,
+      "mobile_numbers": [
+        "+994552507139"
+      ]
+    },
+    {
+      "name": "Lynk & Co Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/lynkco-azerbaijan",
+      "ads_count": 16,
+      "mobile_numbers": [
+        "*5544",
+        "+994516388900"
+      ]
+    },
+    {
+      "name": "Canub Avto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-canub-avto",
+      "ads_count": 99,
+      "mobile_numbers": [
+        "+994505555542",
+        "+994504010601",
+        "+994507070024",
+        "+994507525752"
+      ]
+    },
+    {
+      "name": "Forsaj M.M",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-forsaj-mm",
+      "ads_count": 11,
+      "mobile_numbers": [
+        "+994993609070",
+        "+994513909070"
+      ]
+    },
+    {
+      "name": "Amexline Auto Import",
+      "url": "https://turbo.az/avtosalonlar/importer-amexline-auto-import",
+      "ads_count": 62,
+      "mobile_numbers": [
+        "+994102321551",
+        "+994102321552",
+        "+994102321553",
+        "+994102321554",
+        "+994102321555"
+      ]
+    },
+    {
+      "name": "SS Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-ss-cars",
+      "ads_count": 11,
+      "mobile_numbers": [
+        "+994507167700",
+        "+994557167700"
+      ]
+    },
+    {
+      "name": "Babauto",
+      "url": "https://turbo.az/avtosalonlar/importer-babauto",
+      "ads_count": 14,
+      "mobile_numbers": [
+        "+994706271070"
+      ]
+    },
+    {
+      "name": "BAIC Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/baic-azerbaijan",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994502280688",
+        "+994502913040",
+        "+994502514154",
+        "+994512509595",
+        "+994502704120"
+      ]
+    },
+    {
+      "name": "Auto Mall",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-automall",
+      "ads_count": 20,
+      "mobile_numbers": [
+        "+994503030302",
+        "+994553030302"
+      ]
+    },
+    {
+      "name": "Otokoç Azerbaijan – İkinci əl",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-otokoc-azerbaijan",
+      "ads_count": 21,
+      "mobile_numbers": [
+        "+994554550231"
+      ]
+    },
+    {
+      "name": "Avto AL",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-avto-al",
+      "ads_count": 14,
+      "mobile_numbers": [
+        "+994705900033"
+      ]
+    },
+    {
+      "name": "065 Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-065-cars",
+      "ads_count": 37,
+      "mobile_numbers": [
+        "+994706617766",
+        "+994516617766"
+      ]
+    },
+    {
+      "name": "ZZ 007 Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-zz-007-cars",
+      "ads_count": 44,
+      "mobile_numbers": [
+        "+994773010007",
+        "+994553620007"
+      ]
+    },
+    {
+      "name": "Richi Motors",
+      "url": "https://turbo.az/avtosalonlar/richi-motors",
+      "ads_count": 18,
+      "mobile_numbers": [
+        "+994999891010",
+        "+994777221010",
+        "+994552666912"
+      ]
+    },
+    {
+      "name": "Car Era",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-car-era",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "+994504595888"
+      ]
+    },
+    {
+      "name": "011 Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-011-cars",
+      "ads_count": 25,
+      "mobile_numbers": [
+        "+994557701611",
+        "+994505825111"
+      ]
+    },
+    {
+      "name": "MINI Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/mini-azerbaijan",
+      "ads_count": 8,
+      "mobile_numbers": [
+        "+994502071760"
+      ]
+    },
+    {
+      "name": "N&N 064",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-nn-064",
+      "ads_count": 20,
+      "mobile_numbers": [
+        "+994504656464",
+        "+994704056464",
+        "+994556551155"
+      ]
+    },
+    {
+      "name": "ZEEKR Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/zeekr-azerbaijan",
+      "ads_count": 18,
+      "mobile_numbers": [
+        "*2299"
+      ]
+    },
+    {
+      "name": "Geely Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/geely-azerbaijan",
+      "ads_count": 12,
+      "mobile_numbers": [
+        "*2299"
+      ]
+    },
+    {
+      "name": "Xan Motors",
+      "url": "https://turbo.az/avtosalonlar/xan-motors",
+      "ads_count": 39,
+      "mobile_numbers": [
+        "+994503088035",
+        "+994553276547"
+      ]
+    },
+    {
+      "name": "Avtosalon \"001\"",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-001",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994703024111",
+        "+994773403737",
+        "+994503024111",
+        "+994503403737"
+      ]
+    },
+    {
+      "name": "Best Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-bestcars",
+      "ads_count": 27,
+      "mobile_numbers": [
+        "+994557370303",
+        "+994558259898"
+      ]
+    },
+    {
+      "name": "İdeal Cars 005",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-ideal-cars-005",
+      "ads_count": 17,
+      "mobile_numbers": [
+        "+994558492888",
+        "+994708952888",
+        "+994505502888"
+      ]
+    },
+    {
+      "name": "Carvill",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-carvill",
+      "ads_count": 24,
+      "mobile_numbers": [
+        "+994503290106"
+      ]
+    },
+    {
+      "name": "Leapmotor Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-leapmotor",
+      "ads_count": 9,
+      "mobile_numbers": [
+        "*5544",
+        "+994516388900"
+      ]
+    },
+    {
+      "name": "Avtosalon 7",
+      "url": "https://turbo.az/avtosalonlar/importer-avtosalon-7",
+      "ads_count": 14,
+      "mobile_numbers": [
+        "+994557713991",
+        "+994103993991",
+        "+994505315858",
+        "+994556111178"
+      ]
+    },
+    {
+      "name": "Auto Holding",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-auto-holding",
+      "ads_count": 18,
+      "mobile_numbers": [
+        "+994554740005",
+        "+994708313930"
+      ]
+    },
+    {
+      "name": "Qoca Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-qoca-cars",
+      "ads_count": 195,
+      "mobile_numbers": [
+        "+994773936868",
+        "+994553936868",
+        "+994103936868"
+      ]
+    },
+    {
+      "name": "Autohome",
+      "url": "https://turbo.az/avtosalonlar/importer-autohome",
+      "ads_count": 12,
+      "mobile_numbers": [
+        "+994558150095",
+        "+994997266777"
+      ]
+    },
+    {
+      "name": "Peugeot Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/peugeot-azerbaijan",
+      "ads_count": 2,
+      "mobile_numbers": [
+        "+994552140209",
+        "+994125264040"
+      ]
+    },
+    {
+      "name": "Toyota Gəncə Mərkəzi",
+      "url": "https://turbo.az/avtosalonlar/toyota-gence-merkezi",
+      "ads_count": 6,
+      "mobile_numbers": [
+        "+994508052020",
+        "+994103502020",
+        "+994507568070"
+      ]
+    },
+    {
+      "name": "Avtosalon \"056\"",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-056",
+      "ads_count": 49,
+      "mobile_numbers": [
+        "+994552319979",
+        "+994559336373"
+      ]
+    },
+    {
+      "name": "IM Motors Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/onvolt-im-motors",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994994400007",
+        "+994124400007"
+      ]
+    },
+    {
+      "name": "Nissan Azərbaycan - Salamzadə küç.",
+      "url": "https://turbo.az/avtosalonlar/nissan-salamzade",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994774770934",
+        "+994774340934"
+      ]
+    },
+    {
+      "name": "Fintech Lizing",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-fintech-lizing",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "+994502207802",
+        "+994702207802",
+        "+994102207802"
+      ]
+    },
+    {
+      "name": "Nova Cars",
+      "url": "https://turbo.az/avtosalonlar/importer-nova-cars",
+      "ads_count": 9,
+      "mobile_numbers": [
+        "+994554558877"
+      ]
+    },
+    {
+      "name": "EM Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-em-cars",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994504781707",
+        "+994992161707"
+      ]
+    },
+    {
+      "name": "Atodrive Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-atodrive-azerbaijan",
+      "ads_count": 14,
+      "mobile_numbers": [
+        "+994104441944",
+        "+994104442544"
+      ]
+    },
+    {
+      "name": "040 Avto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-040-avto",
+      "ads_count": 16,
+      "mobile_numbers": [
+        "+994503750003"
+      ]
+    },
+    {
+      "name": "155 Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-155-cars",
+      "ads_count": 25,
+      "mobile_numbers": [
+        "+994557152068",
+        "+994703301550"
+      ]
+    },
+    {
+      "name": "Badamdar Avtomobil Mərkəzi",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-badamdar-avtomobil-merkezi",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "+994552454342",
+        "+994503454342",
+        "+994992283388"
+      ]
+    },
+    {
+      "name": "RH",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-rh",
+      "ads_count": 24,
+      "mobile_numbers": [
+        "+994553789191",
+        "+994503789191",
+        "+994703789191"
+      ]
+    },
+    {
+      "name": "GAZ Distribütor",
+      "url": "https://turbo.az/avtosalonlar/gaz-distribyutor",
+      "ads_count": 12,
+      "mobile_numbers": [
+        "+994552138950"
+      ]
+    },
+    {
+      "name": "Arena Motors",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-arena-motors",
+      "ads_count": 16,
+      "mobile_numbers": [
+        "+994553160691",
+        "+994503160691"
+      ]
+    },
+    {
+      "name": "Mitsubishi Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/mitsubishi-azerbaijan",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994123490006"
+      ]
+    },
+    {
+      "name": "Zero Motors",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-zero-motors",
+      "ads_count": 19,
+      "mobile_numbers": [
+        "+994772283388",
+        "+994552357404",
+        "+994103030177",
+        "+994102357404",
+        "+994552454342"
+      ]
+    },
+    {
+      "name": "111 Xəzər",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-xezer",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994502220104",
+        "+994552270120"
+      ]
+    },
+    {
+      "name": "S+ Cars",
+      "url": "https://turbo.az/avtosalonlar/splyuscars",
+      "ads_count": 34,
+      "mobile_numbers": [
+        "+994507757176"
+      ]
+    },
+    {
+      "name": "Porsche Bakı Mərkəzi",
+      "url": "https://turbo.az/avtosalonlar/porshe-baki-merkezi",
+      "ads_count": 9,
+      "mobile_numbers": [
+        "*2299"
+      ]
+    },
+    {
+      "name": "CP Cars",
+      "url": "https://turbo.az/avtosalonlar/cp-cars",
+      "ads_count": 14,
+      "mobile_numbers": [
+        "+994517704399",
+        "+994775315000",
+        "+994773976861",
+        "+994103316025"
+      ]
+    },
+    {
+      "name": "Diamond Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-diamond-cars",
+      "ads_count": 9,
+      "mobile_numbers": [
+        "+994773866685"
+      ]
+    },
+    {
+      "name": "EuroAsiaAuto",
+      "url": "https://turbo.az/avtosalonlar/importer-euroasia-auto",
+      "ads_count": 11,
+      "mobile_numbers": [
+        "+994502031320"
+      ]
+    },
+    {
+      "name": "Pro Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-pro-cars",
+      "ads_count": 32,
+      "mobile_numbers": [
+        "+994552410300",
+        "+994553520033"
+      ]
+    },
+    {
+      "name": "NBK Motors Abşeron",
+      "url": "https://turbo.az/avtosalonlar/nbk-motors-ahseron-1",
+      "ads_count": 22,
+      "mobile_numbers": [
+        "+994102286668",
+        "+994102395955"
+      ]
+    },
+    {
+      "name": "Hollywood Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-hollywood-cars",
+      "ads_count": 79,
+      "mobile_numbers": [
+        "+994558350404",
+        "+994508350404",
+        "+994558360404",
+        "+994552111840"
+      ]
+    },
+    {
+      "name": "Turbo Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-turbo-cars",
+      "ads_count": 17,
+      "mobile_numbers": [
+        "+994503072424",
+        "+994553072424"
+      ]
+    },
+    {
+      "name": "Grandmoto",
+      "url": "https://turbo.az/avtosalonlar/motosalon-grandmoto",
+      "ads_count": 1,
+      "mobile_numbers": [
+        "+994505780707"
+      ]
+    },
+    {
+      "name": "Xəzər Lada ASC",
+      "url": "https://turbo.az/avtosalonlar/xezer-lada",
+      "ads_count": 6,
+      "mobile_numbers": [
+        "+994502135255",
+        "+994703490979"
+      ]
+    },
+    {
+      "name": "Cars 041",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-cars-041",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994706544141",
+        "+994993519141"
+      ]
+    },
+    {
+      "name": "JMC Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/jmc-azerbaijan",
+      "ads_count": 9,
+      "mobile_numbers": [
+        "+994102327713",
+        "+994102327725",
+        "+994102327719",
+        "*8887"
+      ]
+    },
+    {
+      "name": "JMC Trucks Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/jmc-trucks-azerbaijan",
+      "ads_count": 12,
+      "mobile_numbers": [
+        "+994502353611",
+        "+994502355304",
+        "+994502355390",
+        "+994502356635"
+      ]
+    },
+    {
+      "name": "Şah Motors",
+      "url": "https://turbo.az/avtosalonlar/sah-motors",
+      "ads_count": 25,
+      "mobile_numbers": [
+        "+994102227538"
+      ]
+    },
+    {
+      "name": "JAC Motors Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/jacmotors-azerbaijan",
+      "ads_count": 3,
+      "mobile_numbers": [
+        "+994502280688",
+        "+994502913040",
+        "+994502514154",
+        "+994512509595",
+        "+994502704120"
+      ]
+    },
+    {
+      "name": "Volt Avto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-volt-avto",
+      "ads_count": 12,
+      "mobile_numbers": [
+        "+994552730078"
+      ]
+    },
+    {
+      "name": "Abşeron Mercedes-Benz",
+      "url": "https://turbo.az/avtosalonlar/mercedes-benz-absheron",
+      "ads_count": 29,
+      "mobile_numbers": [
+        "+994512328770",
+        "+994502890985",
+        "+994102250525",
+        "+994502890980"
+      ]
+    },
+    {
+      "name": "Gold Bridge Motors",
+      "url": "https://turbo.az/avtosalonlar/importer-gold-bridge-motors",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994516023456",
+        "+994515601234",
+        "+994516031234"
+      ]
+    },
+    {
+      "name": "Mmotors",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-mmotors",
+      "ads_count": 29,
+      "mobile_numbers": [
+        "+994107110002",
+        "+994107230002"
+      ]
+    },
+    {
+      "name": "Volvo Cars",
+      "url": "https://turbo.az/avtosalonlar/volvo-cars",
+      "ads_count": 11,
+      "mobile_numbers": [
+        "+994125701177",
+        "+994512802904",
+        "+994512802905"
+      ]
+    },
+    {
+      "name": "Mercedes-Benz AutoStar Kaukasus GmbH",
+      "url": "https://turbo.az/avtosalonlar/autostar-kaukasus",
+      "ads_count": 21,
+      "mobile_numbers": [
+        "+994502551804",
+        "+994502859591",
+        "+994502803525",
+        "+994102399391"
+      ]
+    },
+    {
+      "name": "012 Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-012-cars",
+      "ads_count": 24,
+      "mobile_numbers": [
+        "+994505003012",
+        "+994556003012"
+      ]
+    },
+    {
+      "name": "777 Cars Sumqayıt",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-777cars",
+      "ads_count": 35,
+      "mobile_numbers": [
+        "+994553707878",
+        "+994703707878",
+        "+994773707878",
+        "+994503707878"
+      ]
+    },
+    {
+      "name": "SamAuto - Powered by Isuzu",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-samauto-powered-by-isuzu",
+      "ads_count": 2,
+      "mobile_numbers": [
+        "+994552048246"
+      ]
+    },
+    {
+      "name": "Hyundai Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/hyundai-azerbaijan",
+      "ads_count": 23,
+      "mobile_numbers": [
+        "+994518420969",
+        "+994554147696",
+        "989"
+      ]
+    },
+    {
+      "name": "BYD Motors Baku",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-byd-motors-baku",
+      "ads_count": 25,
+      "mobile_numbers": [
+        "+994125263366",
+        "*3366",
+        "+994512334004"
+      ]
+    },
+    {
+      "name": "Wuling Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/wuling-azerbaijan",
+      "ads_count": 8,
+      "mobile_numbers": [
+        "+994102327725",
+        "+994102360523",
+        "+994102327713",
+        "*8887"
+      ]
+    },
+    {
+      "name": "Full 111 Cars Sumqayıt",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-full-111-cars",
+      "ads_count": 46,
+      "mobile_numbers": [
+        "+994508350095",
+        "+994998350095",
+        "+994708350095",
+        "+994558350095"
+      ]
+    },
+    {
+      "name": "Brabus and Startech Baku",
+      "url": "https://turbo.az/avtosalonlar/brabus-startech",
+      "ads_count": 15,
+      "mobile_numbers": [
+        "+994506206666",
+        "+994507338555",
+        "+994124308555"
+      ]
+    },
+    {
+      "name": "78 Auto",
+      "url": "https://turbo.az/avtosalonlar/78-auto",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994502750078",
+        "+994502850078",
+        "+994125260078"
+      ]
+    },
+    {
+      "name": "Stock Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-stock-cars",
+      "ads_count": 37,
+      "mobile_numbers": [
+        "+994505204949",
+        "+994995204949"
+      ]
+    },
+    {
+      "name": "AzCar Motors",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-az-car-motors",
+      "ads_count": 42,
+      "mobile_numbers": [
+        "+994505550015",
+        "+994999000015"
+      ]
+    },
+    {
+      "name": "Baku Auto Mall",
+      "url": "https://turbo.az/avtosalonlar/baku-auto-mall",
+      "ads_count": 109,
+      "mobile_numbers": [
+        "+994122108080"
+      ]
+    },
+    {
+      "name": "BYD Bakı Mərkəzi",
+      "url": "https://turbo.az/avtosalonlar/byd-baki-merkezi",
+      "ads_count": 6,
+      "mobile_numbers": [
+        "+994102391001",
+        "+994125264040"
+      ]
+    },
+    {
+      "name": "Avto Cars 017",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-avto-cars-017",
+      "ads_count": 69,
+      "mobile_numbers": [
+        "+994555099977",
+        "+994505099977",
+        "+994705099977"
+      ]
+    },
+    {
+      "name": "Fengsiward Auto",
+      "url": "https://turbo.az/avtosalonlar/importer-fengsiward-auto",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994103156789",
+        "+994993156789",
+        "+994997771788"
+      ]
+    },
+    {
+      "name": "F Avto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-f-avto",
+      "ads_count": 22,
+      "mobile_numbers": [
+        "+994505365659",
+        "+994705365659"
+      ]
+    },
+    {
+      "name": "JAECOO Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/jaecoo-azerbaijan",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994102327713",
+        "+994102327725",
+        "+994102360523"
+      ]
+    },
+    {
+      "name": "Chevrolet Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/chevrolet-azerbaijan",
+      "ads_count": 9,
+      "mobile_numbers": [
+        "+994512306035",
+        "*8181"
+      ]
+    },
+    {
+      "name": "Avtosalon \"900\"",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-900",
+      "ads_count": 12,
+      "mobile_numbers": [
+        "+994994747777",
+        "+994502041717"
+      ]
+    },
+    {
+      "name": "Hyundai Truck and Bus",
+      "url": "https://turbo.az/avtosalonlar/hyundai_truck_and_bus",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994512052039",
+        "+994505131710"
+      ]
+    },
+    {
+      "name": "TT Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-tt-cars",
+      "ads_count": 29,
+      "mobile_numbers": [
+        "+994502118169",
+        "+994703058585"
+      ]
+    },
+    {
+      "name": "IST Cars Baku",
+      "url": "https://turbo.az/avtosalonlar/istcarsbaku",
+      "ads_count": 75,
+      "mobile_numbers": [
+        "+994502091012",
+        "+994552091012",
+        "+994702091012"
+      ]
+    },
+    {
+      "name": "Cars",
+      "url": "https://turbo.az/avtosalonlar/cars",
+      "ads_count": 8,
+      "mobile_numbers": [
+        "+994773665949",
+        "+994517714517",
+        "+994508471408",
+        "+994557995949"
+      ]
+    },
+    {
+      "name": "DG Motors",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-dg-motors",
+      "ads_count": 19,
+      "mobile_numbers": [
+        "+994515995667"
+      ]
+    },
+    {
+      "name": "China Favourite Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-china-favourite-cars",
+      "ads_count": 26,
+      "mobile_numbers": [
+        "+994997061011",
+        "+994507952005",
+        "+994709594214"
+      ]
+    },
+    {
+      "name": "NN Cars Novxanı",
+      "url": "https://turbo.az/avtosalonlar/nn-cars-novxani",
+      "ads_count": 12,
+      "mobile_numbers": [
+        "+994708677324",
+        "+994702393901"
+      ]
+    },
+    {
+      "name": "Haval Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/haval-azerbaijan",
+      "ads_count": 16,
+      "mobile_numbers": [
+        "*7999",
+        "+994556782424"
+      ]
+    },
+    {
+      "name": "CarPro",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-car-pro",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994505000989",
+        "+994512901044"
+      ]
+    },
+    {
+      "name": "ZeeCar",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-zeecar",
+      "ads_count": 31,
+      "mobile_numbers": [
+        "+994102344475",
+        "+994102396022",
+        "+994509999875"
+      ]
+    },
+    {
+      "name": "101 Auto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-101-auto",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "+994771010107"
+      ]
+    },
+    {
+      "name": "Auto Store",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-auto-store",
+      "ads_count": 21,
+      "mobile_numbers": [
+        "+994505556161",
+        "+994555556161",
+        "+994705556161",
+        "+994775556161"
+      ]
+    },
+    {
+      "name": "Salam Avto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-salam-avto",
+      "ads_count": 153,
+      "mobile_numbers": [
+        "+994507111141",
+        "+994502108094",
+        "+994103110706",
+        "+994552661033"
+      ]
+    },
+    {
+      "name": "AutoFamily",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-auto-family",
+      "ads_count": 54,
+      "mobile_numbers": [
+        "+994553334488",
+        "+994553337755"
+      ]
+    },
+    {
+      "name": "Volkswagen Azərbaycan - Elektro",
+      "url": "https://turbo.az/avtosalonlar/volkswagen-azerbaycan-electro",
+      "ads_count": 6,
+      "mobile_numbers": [
+        "+994502556108",
+        "+994502556107",
+        "+994104359291"
+      ]
+    },
+    {
+      "name": "Kijı Car",
+      "url": "https://turbo.az/avtosalonlar/kiji-car",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994554180093"
+      ]
+    },
+    {
+      "name": "003 Avto",
+      "url": "https://turbo.az/avtosalonlar/003-avto",
+      "ads_count": 14,
+      "mobile_numbers": [
+        "+994552210300"
+      ]
+    },
+    {
+      "name": "Fly Car Motors",
+      "url": "https://turbo.az/avtosalonlar/importer-fly-car-motors",
+      "ads_count": 14,
+      "mobile_numbers": [
+        "+994101010131"
+      ]
+    },
+    {
+      "name": "Hi Auto",
+      "url": "https://turbo.az/avtosalonlar/importer-hi-auto",
+      "ads_count": 6,
+      "mobile_numbers": [
+        "+994702100308"
+      ]
+    },
+    {
+      "name": "Atodrive Azərbaycan 2",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-atodrive-azerbaijan-2",
+      "ads_count": 12,
+      "mobile_numbers": [
+        "+994104441844",
+        "+994104441944"
+      ]
+    },
+    {
+      "name": "Crown Avto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-crown-avto",
+      "ads_count": 42,
+      "mobile_numbers": [
+        "+994552757576"
+      ]
+    },
+    {
+      "name": "Avtosalon \"357\"",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-357",
+      "ads_count": 14,
+      "mobile_numbers": [
+        "+994502141306"
+      ]
+    },
+    {
+      "name": "Golden Dragon Bus Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/golden-dragon-bus-azerbaijan",
+      "ads_count": 5,
+      "mobile_numbers": [
+        "+994502126770"
+      ]
+    },
+    {
+      "name": "Port Auto",
+      "url": "https://turbo.az/avtosalonlar/port-auto",
+      "ads_count": 8,
+      "mobile_numbers": [
+        "+994103154535"
+      ]
+    },
+    {
+      "name": "BMW Motorrad Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/bmw-motorrad-azerbaijan",
+      "ads_count": 4,
+      "mobile_numbers": [
+        "+994999000097"
+      ]
+    },
+    {
+      "name": "BMW Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-bmwcars",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "+994502101095"
+      ]
+    },
+    {
+      "name": "JİM Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/jim-azerbaijan",
+      "ads_count": 4,
+      "mobile_numbers": [
+        "+994554535078"
+      ]
+    },
+    {
+      "name": "GT Cars",
+      "url": "https://turbo.az/avtosalonlar/gt-cars",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994553203674",
+        "+994705909007",
+        "+994508677707"
+      ]
+    },
+    {
+      "name": "SHEYX Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-sheyx-cars",
+      "ads_count": 12,
+      "mobile_numbers": [
+        "+994775009900",
+        "+994513999909"
+      ]
+    },
+    {
+      "name": "Trend Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-trend-cars",
+      "ads_count": 32,
+      "mobile_numbers": [
+        "+994703827666",
+        "+994553827666",
+        "+994513827666"
+      ]
+    },
+    {
+      "name": "Forthing Motor Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/forthing-motor-azerbaijan",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994508233888",
+        "+994125619999"
+      ]
+    },
+    {
+      "name": "King Star Auto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-king-star-auto",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994554132252"
+      ]
+    },
+    {
+      "name": "A​uto City 057",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-auto-city-057",
+      "ads_count": 91,
+      "mobile_numbers": [
+        "+994709775757"
+      ]
+    },
+    {
+      "name": "101 Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-101-cars",
+      "ads_count": 92,
+      "mobile_numbers": [
+        "+994558247979"
+      ]
+    },
+    {
+      "name": "Caspian Dragons Motors",
+      "url": "https://turbo.az/avtosalonlar/caspian-dragons-motors",
+      "ads_count": 8,
+      "mobile_numbers": [
+        "+994504845861",
+        "+994702140056",
+        "+994508566699",
+        "+994556769669"
+      ]
+    },
+    {
+      "name": "888 Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-888-cars",
+      "ads_count": 84,
+      "mobile_numbers": [
+        "+994709456888",
+        "+994502243888"
+      ]
+    },
+    {
+      "name": "Eco Auto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-eco-auto",
+      "ads_count": 8,
+      "mobile_numbers": [
+        "+994702888888",
+        "+994702888870"
+      ]
+    },
+    {
+      "name": "Avtosalon \"707\"",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-707",
+      "ads_count": 16,
+      "mobile_numbers": [
+        "+994708552128",
+        "+994505559291",
+        "+994506148280",
+        "+994556148280"
+      ]
+    },
+    {
+      "name": "Hyundai Gənclik",
+      "url": "https://turbo.az/avtosalonlar/hyundai-genclik",
+      "ads_count": 8,
+      "mobile_numbers": [
+        "+994504902626",
+        "+994125640822"
+      ]
+    },
+    {
+      "name": "Prestige Auto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-prestige-auto",
+      "ads_count": 90,
+      "mobile_numbers": [
+        "+994515141414",
+        "+994502104473",
+        "+994508936666"
+      ]
+    },
+    {
+      "name": "Ağa Avto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-aga-avto",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994773048838",
+        "+994553048838"
+      ]
+    },
+    {
+      "name": "Premium",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-premium",
+      "ads_count": 19,
+      "mobile_numbers": [
+        "+994513330601",
+        "+994772555575",
+        "+994556649001",
+        "+994506569536"
+      ]
+    },
+    {
+      "name": "FF Avto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-ff",
+      "ads_count": 44,
+      "mobile_numbers": [
+        "+994553995453",
+        "+994553885453"
+      ]
+    },
+    {
+      "name": "Group Motors",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-group-motors",
+      "ads_count": 24,
+      "mobile_numbers": [
+        "*5665"
+      ]
+    },
+    {
+      "name": "HOWO Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/howo-azerbaijan",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994502355304",
+        "+994502353611"
+      ]
+    },
+    {
+      "name": "Skoda Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/skoda-azerbaijan",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "*5544",
+        "+994516388900"
+      ]
+    },
+    {
+      "name": "Auto House 2",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-auto-house-2",
+      "ads_count": 26,
+      "mobile_numbers": [
+        "+994502209565"
+      ]
+    },
+    {
+      "name": "ONEAuto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-one-auto",
+      "ads_count": 16,
+      "mobile_numbers": [
+        "+994502000857",
+        "+994503000857",
+        "+994504000857",
+        "+994505000857"
+      ]
+    },
+    {
+      "name": "HH Avto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-hh-avto",
+      "ads_count": 33,
+      "mobile_numbers": [
+        "+994503900058"
+      ]
+    },
+    {
+      "name": "Auto Group N1",
+      "url": "https://turbo.az/avtosalonlar/auto-group-n1",
+      "ads_count": 37,
+      "mobile_numbers": [
+        "+994553004847",
+        "+994102141311",
+        "+994507145404"
+      ]
+    },
+    {
+      "name": "Avtosalon \"444\"",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-444",
+      "ads_count": 22,
+      "mobile_numbers": [
+        "+994503220215",
+        "+994553220215"
+      ]
+    },
+    {
+      "name": "Mazda Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/mazda-azerbaijan",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "+994123490100"
+      ]
+    },
+    {
+      "name": "Xəzər Auto",
+      "url": "https://turbo.az/avtosalonlar/xazar-auto",
+      "ads_count": 22,
+      "mobile_numbers": [
+        "+994503588686",
+        "+994505824848",
+        "+994124362179",
+        "+994125130949"
+      ]
+    },
+    {
+      "name": "Cars N1 Sumqayıt",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-carsn1sumqayit",
+      "ads_count": 25,
+      "mobile_numbers": [
+        "+994554477677",
+        "+994517353939"
+      ]
+    },
+    {
+      "name": "Apex Auto Sales Group",
+      "url": "https://turbo.az/avtosalonlar/importer-apex-auto-sales-group",
+      "ads_count": 32,
+      "mobile_numbers": [
+        "+994507300496",
+        "+994559288877"
+      ]
+    },
+    {
+      "name": "Baku Auto Mall Import",
+      "url": "https://turbo.az/avtosalonlar/baku-auto-mall-import",
+      "ads_count": 22,
+      "mobile_numbers": [
+        "+994122108080"
+      ]
+    },
+    {
+      "name": "JAC Motors Baku",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-jac-motors-baku",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994552087689"
+      ]
+    },
+    {
+      "name": "Olimp",
+      "url": "https://turbo.az/avtosalonlar/olimp",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994559119030",
+        "+994503104206",
+        "+994703104206",
+        "+994502402830"
+      ]
+    },
+    {
+      "name": "OnBrend Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-onbrendcars",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994551504141",
+        "+994555220222"
+      ]
+    },
+    {
+      "name": "RL AutoGallery",
+      "url": "https://turbo.az/avtosalonlar/rl-autogallery",
+      "ads_count": 12,
+      "mobile_numbers": [
+        "+994512866666"
+      ]
+    },
+    {
+      "name": "Uğur Avto",
+      "url": "https://turbo.az/avtosalonlar/ugur-avto",
+      "ads_count": 42,
+      "mobile_numbers": [
+        "+994552771676",
+        "+994558422541"
+      ]
+    },
+    {
+      "name": "BYD Abşeron Mərkəzi",
+      "url": "https://turbo.az/avtosalonlar/byd-absheron-merkezi",
+      "ads_count": 21,
+      "mobile_numbers": [
+        "969"
+      ]
+    },
+    {
+      "name": "Ford Abşeron Mərkəzi",
+      "url": "https://turbo.az/avtosalonlar/group-motors-ford",
+      "ads_count": 1,
+      "mobile_numbers": [
+        "+994123494979"
+      ]
+    },
+    {
+      "name": "Lada Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/azermash-lada-azerbaijan",
+      "ads_count": 8,
+      "mobile_numbers": [
+        "+994554092445",
+        "+994552065409"
+      ]
+    },
+    {
+      "name": "DX Motors",
+      "url": "https://turbo.az/avtosalonlar/importer-dx-motors",
+      "ads_count": 26,
+      "mobile_numbers": [
+        "+994103710338"
+      ]
+    },
+    {
+      "name": "Gold Cars 777",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-gold-cars-777",
+      "ads_count": 88,
+      "mobile_numbers": [
+        "+994706808330"
+      ]
+    },
+    {
+      "name": "GAC Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/gac-azerbaijan",
+      "ads_count": 25,
+      "mobile_numbers": [
+        "+994504000989",
+        "+994102534384",
+        "+994512444118",
+        "+994104000989"
+      ]
+    },
+    {
+      "name": "Avtosalon \"999\"",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-999",
+      "ads_count": 56,
+      "mobile_numbers": [
+        "+994506305555",
+        "+994996305555",
+        "+994706305555",
+        "+994776305555"
+      ]
+    },
+    {
+      "name": "Otogallery by Pegasus Auto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-otogallery-by-pegasus-auto",
+      "ads_count": 9,
+      "mobile_numbers": [
+        "+994772236363"
+      ]
+    },
+    {
+      "name": "Sun Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-sun-cars",
+      "ads_count": 14,
+      "mobile_numbers": [
+        "+994502424624",
+        "+994502224624",
+        "+994102424624"
+      ]
+    },
+    {
+      "name": "045 Avto Mingəçevir",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-045-avto-mingecevir",
+      "ads_count": 17,
+      "mobile_numbers": [
+        "+994556384443"
+      ]
+    },
+    {
+      "name": "KAIYI Azərbaycan - Salamzadə küç.",
+      "url": "https://turbo.az/avtosalonlar/kaiyi-salamzade",
+      "ads_count": 4,
+      "mobile_numbers": [
+        "+994774340934"
+      ]
+    },
+    {
+      "name": "Seres Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/seres-azerbaijan",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "*0078",
+        "+994552730078"
+      ]
+    },
+    {
+      "name": "Suzuki Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/suzuki-azerbaijan",
+      "ads_count": 6,
+      "mobile_numbers": [
+        "+994512323203",
+        "+994512323204"
+      ]
+    },
+    {
+      "name": "Mustang Auto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-mustang-auto",
+      "ads_count": 33,
+      "mobile_numbers": [
+        "+994507640030",
+        "+994777650030"
+      ]
+    },
+    {
+      "name": "Drive Train İmport",
+      "url": "https://turbo.az/avtosalonlar/drive-train-import",
+      "ads_count": 25,
+      "mobile_numbers": [
+        "+994103837223"
+      ]
+    },
+    {
+      "name": "Auto House",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-auto-house",
+      "ads_count": 17,
+      "mobile_numbers": [
+        "+994125625115",
+        "+994504068008",
+        "+994506272376"
+      ]
+    },
+    {
+      "name": "Baku Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-bakucars",
+      "ads_count": 12,
+      "mobile_numbers": [
+        "+994556869190",
+        "+994124376333"
+      ]
+    },
+    {
+      "name": "Dongfeng Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/dongfeng-azerbaijan",
+      "ads_count": 16,
+      "mobile_numbers": [
+        "+994504446108",
+        "+994504446107",
+        "+994104359291",
+        "*8999"
+      ]
+    },
+    {
+      "name": "Rox Motor Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/rox-motor-azerbaijan",
+      "ads_count": 6,
+      "mobile_numbers": [
+        "*0078",
+        "+994552450078"
+      ]
+    },
+    {
+      "name": "Autouniversal - Fiat Professional",
+      "url": "https://turbo.az/avtosalonlar/autouniversal-fiat-professional",
+      "ads_count": 9,
+      "mobile_numbers": [
+        "+994124246690",
+        "+994503638378"
+      ]
+    },
+    {
+      "name": "Berlin Avto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-berlin-avto",
+      "ads_count": 33,
+      "mobile_numbers": [
+        "+994506007711",
+        "+994556007711"
+      ]
+    },
+    {
+      "name": "Elite Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-elite-cars",
+      "ads_count": 30,
+      "mobile_numbers": [
+        "+994558985888",
+        "+994553036666",
+        "+994555249444"
+      ]
+    },
+    {
+      "name": "NEO Motors",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-neo-motors",
+      "ads_count": 19,
+      "mobile_numbers": [
+        "+994506877772",
+        "+994506877777",
+        "+994506877781"
+      ]
+    },
+    {
+      "name": "Okean",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-okean",
+      "ads_count": 75,
+      "mobile_numbers": [
+        "+994507703344"
+      ]
+    },
+    {
+      "name": "Auto AY",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-auto-ay",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994503570027"
+      ]
+    },
+    {
+      "name": "Haojue Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/haojue-azerbaijan",
+      "ads_count": 5,
+      "mobile_numbers": [
+        "+994125708989",
+        "+994512323203",
+        "+994512323204"
+      ]
+    },
+    {
+      "name": "Evtech Motors",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-evtech-motors",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994102143121"
+      ]
+    },
+    {
+      "name": "BENDA Azərbaycan by Grandmoto",
+      "url": "https://turbo.az/avtosalonlar/benda-azerbaijan-by-grandmoto",
+      "ads_count": 6,
+      "mobile_numbers": [
+        "+994505780707",
+        "+994505610707"
+      ]
+    },
+    {
+      "name": "NBK Motors",
+      "url": "https://turbo.az/avtosalonlar/importer-nbk-motors",
+      "ads_count": 34,
+      "mobile_numbers": [
+        "+994102286668",
+        "+994102395955"
+      ]
+    },
+    {
+      "name": "Eurocar",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-eurocar",
+      "ads_count": 49,
+      "mobile_numbers": [
+        "+994504331166",
+        "+994704331166",
+        "+994994331166"
+      ]
+    },
+    {
+      "name": "Classic Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-classic-cars",
+      "ads_count": 4,
+      "mobile_numbers": [
+        "+994508050552"
+      ]
+    },
+    {
+      "name": "Isuzu Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/isuzu-azerbaijan",
+      "ads_count": 27,
+      "mobile_numbers": [
+        "+994554535078",
+        "+994554099121"
+      ]
+    },
+    {
+      "name": "Auto City",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-autocity",
+      "ads_count": 6,
+      "mobile_numbers": [
+        "+994558989999"
+      ]
+    },
+    {
+      "name": "Abu Dabi Cars №1",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-abu-dabi-cars-n1",
+      "ads_count": 178,
+      "mobile_numbers": [
+        "+994556506666",
+        "+994508749292"
+      ]
+    },
+    {
+      "name": "Luks Avto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-luks-avto",
+      "ads_count": 18,
+      "mobile_numbers": [
+        "+994503144420",
+        "+994553144420",
+        "+994553083727"
+      ]
+    },
+    {
+      "name": "Auto Group",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-auto-group",
+      "ads_count": 54,
+      "mobile_numbers": [
+        "+994559775959",
+        "+994502207292"
+      ]
+    },
+    {
+      "name": "AutoNova Global",
+      "url": "https://turbo.az/avtosalonlar/importer-autonova-global",
+      "ads_count": 34,
+      "mobile_numbers": [
+        "+994502192848",
+        "+994502712848"
+      ]
+    },
+    {
+      "name": "Badamdar Filialı",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-badamdar-filiali",
+      "ads_count": 16,
+      "mobile_numbers": [
+        "+994502557074",
+        "+994552444040",
+        "+994552566060"
+      ]
+    },
+    {
+      "name": "Avtoland",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-avtoland",
+      "ads_count": 15,
+      "mobile_numbers": [
+        "+994552117999",
+        "+994503875555"
+      ]
+    },
+    {
+      "name": "Imperial Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-imperial-cars",
+      "ads_count": 49,
+      "mobile_numbers": [
+        "+994556282756",
+        "+994503719191"
+      ]
+    },
+    {
+      "name": "GE Motors",
+      "url": "https://turbo.az/avtosalonlar/ge-motors",
+      "ads_count": 27,
+      "mobile_numbers": [
+        "+994505788906"
+      ]
+    },
+    {
+      "name": "XPENG Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/xpeng-azerbaijan",
+      "ads_count": 11,
+      "mobile_numbers": [
+        "*5544",
+        "+994516388900"
+      ]
+    },
+    {
+      "name": "Qətər Auto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-qeter-auto",
+      "ads_count": 30,
+      "mobile_numbers": [
+        "+994507203040",
+        "+994557203040",
+        "+994707203040",
+        "+994777203040"
+      ]
+    },
+    {
+      "name": "TT 064 Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-tt-064-cars",
+      "ads_count": 24,
+      "mobile_numbers": [
+        "+994706086464",
+        "+994996086464",
+        "+994513276464"
+      ]
+    },
+    {
+      "name": "AvtoExpress Baku",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-autoexpress-baku",
+      "ads_count": 109,
+      "mobile_numbers": [
+        "+994554119797",
+        "+994554139797"
+      ]
+    },
+    {
+      "name": "001 Star Cars",
+      "url": "https://turbo.az/avtosalonlar/star-cars",
+      "ads_count": 40,
+      "mobile_numbers": [
+        "+994502410455",
+        "+994702410455",
+        "+994552410455"
+      ]
+    },
+    {
+      "name": "Oking Motors",
+      "url": "https://turbo.az/avtosalonlar/oking-motors",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994102128837",
+        "+994707816444",
+        "+994556049664"
+      ]
+    },
+    {
+      "name": "BMW Baku",
+      "url": "https://turbo.az/avtosalonlar/bmw-baku",
+      "ads_count": 3,
+      "mobile_numbers": [
+        "+994124932539",
+        "+994502501770"
+      ]
+    },
+    {
+      "name": "Auto Park",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-auto-park",
+      "ads_count": 18,
+      "mobile_numbers": [
+        "+994513020220"
+      ]
+    },
+    {
+      "name": "Auto City Xırdalan",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-auto-city-xirdalan",
+      "ads_count": 6,
+      "mobile_numbers": [
+        "+994552135255"
+      ]
+    },
+    {
+      "name": "114 Cars Badamdar",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-114-cars-badamdar",
+      "ads_count": 51,
+      "mobile_numbers": [
+        "+994552771614",
+        "+994552771114"
+      ]
+    },
+    {
+      "name": "VOYAH Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/voyah-azerbaijan",
+      "ads_count": 23,
+      "mobile_numbers": [
+        "+994505357777"
+      ]
+    },
+    {
+      "name": "035 Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-035-cars",
+      "ads_count": 8,
+      "mobile_numbers": [
+        "+994556333188",
+        "+994554617777",
+        "+994705817000",
+        "+994513667787"
+      ]
+    },
+    {
+      "name": "Kinetic Electro Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-kinetic-electro-cars",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "+994998000885",
+        "+994504109050"
+      ]
+    },
+    {
+      "name": "VV Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-vv-cars",
+      "ads_count": 23,
+      "mobile_numbers": [
+        "+994503556363",
+        "+994703556363",
+        "+994773556363"
+      ]
+    },
+    {
+      "name": "Kia Motors Gənclik",
+      "url": "https://turbo.az/avtosalonlar/kia-motors-genclik",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994124650501",
+        "+994554650501",
+        "+994995269999"
+      ]
+    },
+    {
+      "name": "Brend Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-brendcars",
+      "ads_count": 27,
+      "mobile_numbers": [
+        "+994553022424",
+        "+994504926699"
+      ]
+    },
+    {
+      "name": "JAC Trucks\tAzərbaycan",
+      "url": "https://turbo.az/avtosalonlar/jac-trucks-azerbaijan",
+      "ads_count": 8,
+      "mobile_numbers": [
+        "+994512805073",
+        "+994102608801"
+      ]
+    },
+    {
+      "name": "IST Cars Sumqayıt",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-1istsumqayit",
+      "ads_count": 69,
+      "mobile_numbers": [
+        "+994506005044",
+        "+994556005044"
+      ]
+    },
+    {
+      "name": "MyCars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-mycars",
+      "ads_count": 25,
+      "mobile_numbers": [
+        "+994104561111"
+      ]
+    },
+    {
+      "name": "AS",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-as",
+      "ads_count": 15,
+      "mobile_numbers": [
+        "+994502136222",
+        "+994552136222"
+      ]
+    },
+    {
+      "name": "Avtosalon \"005\"",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-005",
+      "ads_count": 16,
+      "mobile_numbers": [
+        "+994707660505"
+      ]
+    },
+    {
+      "name": "Avtosalon \"555\"",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-555",
+      "ads_count": 12,
+      "mobile_numbers": [
+        "+994502002144",
+        "+994505554707",
+        "+994702002144"
+      ]
+    },
+    {
+      "name": "BMW Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/improtex-motors",
+      "ads_count": 38,
+      "mobile_numbers": [
+        "+994512301999",
+        "+994512151714",
+        "+994502071780",
+        "+994502071790"
+      ]
+    },
+    {
+      "name": "AA Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-aa-cars",
+      "ads_count": 19,
+      "mobile_numbers": [
+        "+994553080007",
+        "+994551020026"
+      ]
+    },
+    {
+      "name": "Badamdar Satış Mərkəzi",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-badamdar-satish-merkezi",
+      "ads_count": 108,
+      "mobile_numbers": [
+        "+994124371307",
+        "+994502303013",
+        "+994502202088",
+        "+994553601360"
+      ]
+    },
+    {
+      "name": "Full Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-full-cars",
+      "ads_count": 24,
+      "mobile_numbers": [
+        "+994503533672",
+        "+994506700800",
+        "+994706700800"
+      ]
+    },
+    {
+      "name": "Super Charge Cars",
+      "url": "https://turbo.az/avtosalonlar/importer-super-charge-cars",
+      "ads_count": 17,
+      "mobile_numbers": [
+        "+994552471558",
+        "+994702856801",
+        "+994508378881",
+        "+994554885642"
+      ]
+    },
+    {
+      "name": "Troya Auto",
+      "url": "https://turbo.az/avtosalonlar/importer-troya-auto",
+      "ads_count": 75,
+      "mobile_numbers": [
+        "+994513336963",
+        "+994503336963"
+      ]
+    },
+    {
+      "name": "Chery Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/chery-azerbaijan",
+      "ads_count": 17,
+      "mobile_numbers": [
+        "*2299"
+      ]
+    },
+    {
+      "name": "123 Avto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-123-avto",
+      "ads_count": 36,
+      "mobile_numbers": [
+        "+994503140505",
+        "+994553140505",
+        "+994703140505"
+      ]
+    },
+    {
+      "name": "Autohub",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-autohub",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "+994508066664",
+        "+994508066663"
+      ]
+    },
+    {
+      "name": "VVAN Gold Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-vvan-gold-cars",
+      "ads_count": 25,
+      "mobile_numbers": [
+        "+994993138018",
+        "+994552458018"
+      ]
+    },
+    {
+      "name": "Hyper Garage",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-hyper-garage",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994506030946",
+        "+994993339985",
+        "+994552391599"
+      ]
+    },
+    {
+      "name": "BAW Azerbaijan",
+      "url": "https://turbo.az/avtosalonlar/baw-azerbaijan",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "+994501030212",
+        "+994501040212"
+      ]
+    },
+    {
+      "name": "CFMoto Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/cfmoto-azerbaijan",
+      "ads_count": 43,
+      "mobile_numbers": [
+        "+994125709766"
+      ]
+    },
+    {
+      "name": "Carlink",
+      "url": "https://turbo.az/avtosalonlar/importer-carlink",
+      "ads_count": 29,
+      "mobile_numbers": [
+        "+994553842262"
+      ]
+    },
+    {
+      "name": "MM Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-mm-cars",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "+994553460046",
+        "+994555460046"
+      ]
+    },
+    {
+      "name": "Super Cars",
+      "url": "https://turbo.az/avtosalonlar/super-cars",
+      "ads_count": 47,
+      "mobile_numbers": [
+        "+994503689979",
+        "+994703689979",
+        "+994553689979"
+      ]
+    },
+    {
+      "name": "Roadster Auto",
+      "url": "https://turbo.az/avtosalonlar/roadster-auto",
+      "ads_count": 7,
+      "mobile_numbers": [
+        "+994502123403"
+      ]
+    },
+    {
+      "name": "Lənkəran Avtomobil Mərkəzi",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-lenkaran-avtomobil-merkezi",
+      "ads_count": 59,
+      "mobile_numbers": [
+        "+994503276547",
+        "+994504053505"
+      ]
+    },
+    {
+      "name": "RR 333 Cars",
+      "url": "https://turbo.az/avtosalonlar/rr-333-cars",
+      "ads_count": 29,
+      "mobile_numbers": [
+        "+994514703333",
+        "+994505939390"
+      ]
+    },
+    {
+      "name": "N1 Cars",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-n1-cars",
+      "ads_count": 14,
+      "mobile_numbers": [
+        "+994703470707",
+        "+994507887151",
+        "+994556869178",
+        "+994123748679"
+      ]
+    },
+    {
+      "name": "Maserati Baku",
+      "url": "https://turbo.az/avtosalonlar/maserati-baku",
+      "ads_count": 11,
+      "mobile_numbers": [
+        "+994102229223",
+        "+994102226223"
+      ]
+    },
+    {
+      "name": "LuxPro Cars",
+      "url": "https://turbo.az/avtosalonlar/luxpro-cars",
+      "ads_count": 14,
+      "mobile_numbers": [
+        "+994552447047",
+        "+994702870077",
+        "+994552429938",
+        "+994552670256"
+      ]
+    },
+    {
+      "name": "KAIYI Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/kaiyi-azerbaijan",
+      "ads_count": 10,
+      "mobile_numbers": [
+        "+994772720011"
+      ]
+    },
+    {
+      "name": "ANSD Auto",
+      "url": "https://turbo.az/avtosalonlar/ansd-auto",
+      "ads_count": 8,
+      "mobile_numbers": [
+        "+994773428650"
+      ]
+    },
+    {
+      "name": "Fine Up Auto",
+      "url": "https://turbo.az/avtosalonlar/autosalon-fine-up-auto",
+      "ads_count": 6,
+      "mobile_numbers": [
+        "+994998851042",
+        "+994506329339"
+      ]
+    },
+    {
+      "name": "030 Avto",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-030-avto",
+      "ads_count": 38,
+      "mobile_numbers": [
+        "+994706416600",
+        "+994553200002"
+      ]
+    },
+    {
+      "name": "Infınıtı Azərbaycan",
+      "url": "https://turbo.az/avtosalonlar/infiniti-azerbaijan",
+      "ads_count": 3,
+      "mobile_numbers": [
+        "+994775550934",
+        "+994774440934"
+      ]
+    },
+    {
+      "name": "Neon Auto 085",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-neon-auto-085",
+      "ads_count": 6,
+      "mobile_numbers": [
+        "+994993850385",
+        "+994552020885",
+        "+994702050885"
+      ]
+    },
+    {
+      "name": "Adventure Motors",
+      "url": "https://turbo.az/avtosalonlar/adventure-motors",
+      "ads_count": 13,
+      "mobile_numbers": [
+        "+994504300707"
+      ]
+    },
+    {
+      "name": "RS Cars",
+      "url": "https://turbo.az/avtosalonlar/rs-cars",
+      "ads_count": 9,
+      "mobile_numbers": [
+        "+994552853003",
+        "+994552105929",
+        "+994505901444"
+      ]
+    },
+    {
+      "name": "KAI Motors",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-kai-motors",
+      "ads_count": 24,
+      "mobile_numbers": [
+        "+994101101098",
+        "+994556877077",
+        "+994105255212",
+        "+994997757077",
+        "+994773778868"
+      ]
+    },
+    {
+      "name": "Toyota Abşeron Mərkəzi",
+      "url": "https://turbo.az/avtosalonlar/toyota-absheron",
+      "ads_count": 51,
+      "mobile_numbers": [
+        "+994123490060"
+      ]
+    },
+    {
+      "name": "Auto by ENZO",
+      "url": "https://turbo.az/avtosalonlar/auto-by-enzo",
+      "ads_count": 19,
+      "mobile_numbers": [
+        "+994557804292",
+        "+994707804292",
+        "+994507804292"
+      ]
+    },
+    {
+      "name": "Cars TT 039",
+      "url": "https://turbo.az/avtosalonlar/avtosalon-cars-tt-039",
+      "ads_count": 23,
+      "mobile_numbers": [
+        "+994702800039",
+        "+994556260039"
+      ]
+    },
+    {
+      "name": "Autonova Car",
+      "url": "https://turbo.az/avtosalonlar/importer-autonova-car",
+      "ads_count": 8,
+      "mobile_numbers": [
+        "+994514420011"
+      ]
+    }
+  ]
+}

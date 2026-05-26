@@ -1,0 +1,15 @@
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/elektronika	Elektronika
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/mebel	Mebel
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/dom-i-sad	Ev və bağ
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/insaat-ve-temir-ucun-her-sey	Təmir və tikinti
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/nedvizhimost	Daşınmaz əmlak
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/transport	Nəqliyyat
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/sport-i-khobbi	İdman və hobbi
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/lichnye-veshchi	Şəxsi əşyalar
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/rabota	İş
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/uslugi	Xidmətlər
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/zhivotnye-2	Heyvanlar
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/oborudovanie-dlya-biznesa	Biznes üçün avadanlıq
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/detskii-mir-2	Uşaq dünyası
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/medical-supplies	Tibbi məhsullar
+.CategoryGrid_categoryGridContainer__rhErq a	/azerbaijan/lalafoda-yeni	lalafoda yeni

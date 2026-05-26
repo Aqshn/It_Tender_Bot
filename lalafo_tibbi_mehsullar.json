@@ -1,0 +1,129 @@
+{
+    "source": "https://lalafo.az",
+    "category": "Tibbi məhsullar",
+    "sellers": [
+        {
+            "seller_id": "9315801",
+            "shop_name": "El-Nur",
+            "shop_url": "https://lalafo.az/user/9315801",
+            "mobile_numbers": [
+                "+994503803673"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 4
+        },
+        {
+            "seller_id": "11430111",
+            "shop_name": "El_Nur",
+            "shop_url": "https://lalafo.az/user/11430111",
+            "mobile_numbers": [
+                "+994507979262"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 3
+        },
+        {
+            "seller_id": "11769829",
+            "shop_name": "FRSPORT İdman malları",
+            "shop_url": "https://lalafo.az/user/11769829",
+            "mobile_numbers": [
+                "+994702363671",
+                "+994508363671"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 1
+        },
+        {
+            "seller_id": "17330178",
+            "shop_name": "Fəxri",
+            "shop_url": "https://lalafo.az/user/17330178",
+            "mobile_numbers": [
+                "+994555263454",
+                "+994555780896"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 70
+        },
+        {
+            "seller_id": "13088179",
+            "shop_name": "Oksigen balonu",
+            "shop_url": "https://lalafo.az/user/13088179",
+            "mobile_numbers": [
+                "+994554708887"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 10
+        },
+        {
+            "seller_id": "2827843",
+            "shop_name": "OKSİGEN",
+            "shop_url": "https://lalafo.az/user/2827843",
+            "mobile_numbers": [
+                "+994554443521"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 6
+        },
+        {
+            "seller_id": "13154394",
+            "shop_name": "SAĞLAMLİQ 7/24",
+            "shop_url": "https://lalafo.az/user/13154394",
+            "mobile_numbers": [
+                "+994516136899",
+                "+994702404402"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 7
+        },
+        {
+            "seller_id": "11453104",
+            "shop_name": "Tibbi Oksigen Balonu icarəsi və satışı",
+            "shop_url": "https://lalafo.az/user/11453104",
+            "mobile_numbers": [
+                "+994552144085"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 5
+        },
+        {
+            "seller_id": "14928406",
+            "shop_name": "Zakir Zeynalov",
+            "shop_url": "https://lalafo.az/user/14928406",
+            "mobile_numbers": [
+                "+994558199819"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 23
+        },
+        {
+            "seller_id": "10770127",
+            "shop_name": "Əlil Arabaları",
+            "shop_url": "https://lalafo.az/user/10770127",
+            "mobile_numbers": [
+                "+994555780896"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 4
+        }
+    ]
+}

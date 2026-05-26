@@ -1,0 +1,19 @@
+#cloud-config
+package_update: true
+package_upgrade: true
+packages:
+  - git
+  - python3-venv
+  - python3-pip
+  - rsync
+
+write_files:
+  - path: /opt/etender-monitor/README_CLOUDINIT.txt
+    content: |
+      This instance was provisioned with cloud-init. Edit /opt/etender-monitor/.env to add your TELEGRAM secrets.
+
+runcmd:
+  - [ bash, -lc, 'mkdir -p /opt/etender-monitor' ]
+  - [ bash, -lc, 'if [ -d /opt/etender-monitor/.git ]; then cd /opt/etender-monitor && git pull; else git clone https://github.com/Aqshn/It_Tender_Bot.git /opt/etender-monitor; fi' ]
+  - [ bash, -lc, 'cd /opt/etender-monitor && chmod +x parcer/deploy_vps.sh && ./parcer/deploy_vps.sh' ]
+  - [ bash, -lc, 'echo "Cloud-init finished. Edit /opt/etender-monitor/.env and enable the timer: sudo systemctl daemon-reload && sudo systemctl enable --now etender-monitor.timer" > /root/ETENDER_SETUP_COMPLETE.txt' ]

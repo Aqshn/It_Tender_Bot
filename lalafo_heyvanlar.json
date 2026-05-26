@@ -1,0 +1,82 @@
+{
+    "source": "https://lalafo.az",
+    "category": "Heyvanlar",
+    "sellers": [
+        {
+            "seller_id": "2679650",
+            "shop_name": "Akvarium__ fish",
+            "shop_url": "https://lalafo.az/user/2679650",
+            "mobile_numbers": [
+                "+994702345400"
+            ],
+            "categories": [
+                "Heyvanlar"
+            ],
+            "ads_count": 3
+        },
+        {
+            "seller_id": "15642633",
+            "shop_name": "Aydin",
+            "shop_url": "https://lalafo.az/user/15642633",
+            "mobile_numbers": [
+                "+994557780030"
+            ],
+            "categories": [
+                "Heyvanlar"
+            ],
+            "ads_count": 1
+        },
+        {
+            "seller_id": "2904279",
+            "shop_name": "isa",
+            "shop_url": "https://lalafo.az/user/2904279",
+            "mobile_numbers": [
+                "+994553245041",
+                "+994708039312",
+                "+994708438212",
+                "+994559710131"
+            ],
+            "categories": [
+                "Heyvanlar"
+            ],
+            "ads_count": 3
+        },
+        {
+            "seller_id": "10428154",
+            "shop_name": "Təndir",
+            "shop_url": "https://lalafo.az/user/10428154",
+            "mobile_numbers": [
+                "+994515646498"
+            ],
+            "categories": [
+                "Heyvanlar"
+            ],
+            "ads_count": 1
+        },
+        {
+            "seller_id": "3621605",
+            "shop_name": "VadimRustemov",
+            "shop_url": "https://lalafo.az/user/3621605",
+            "mobile_numbers": [
+                "+994703770022"
+            ],
+            "categories": [
+                "Heyvanlar"
+            ],
+            "ads_count": 1
+        },
+        {
+            "seller_id": "11986133",
+            "shop_name": "ЛЕЙЛА САФАРАЛИЕВА",
+            "shop_url": "https://lalafo.az/user/11986133",
+            "mobile_numbers": [
+                "+994513298362",
+                "+994551000999"
+            ],
+            "categories": [
+                "Heyvanlar"
+            ],
+            "ads_count": 2
+        }
+    ]
+}

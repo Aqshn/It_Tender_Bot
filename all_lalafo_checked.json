@@ -1,0 +1,3807 @@
+{
+    "source": "https://lalafo.az",
+    "total_pro_sellers": 291,
+    "categories_crawled": [
+        "Biznes üçün avadanlıq",
+        "Daşınmaz əmlak",
+        "Elektronika",
+        "Ev və bağ",
+        "Heyvanlar",
+        "İdman və hobbi",
+        "İş",
+        "Mebel",
+        "Nəqliyyat",
+        "Şəxsi əşyalar",
+        "Təmir və tikinti",
+        "Tibbi məhsullar",
+        "Uşaq dünyası",
+        "Xidmətlər"
+    ],
+    "sellers": [
+        {
+            "seller_id": "12567435",
+            "shop_name": "075 EHTİYAT HİSSƏLƏRİ",
+            "shop_url": "https://lalafo.az/user/12567435",
+            "mobile_numbers": [
+                "+994707990075",
+                "+994556065558"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 445
+        },
+        {
+            "seller_id": "6109084",
+            "shop_name": "2 ci əl paltaryuyan və soyducu",
+            "shop_url": "https://lalafo.az/user/6109084",
+            "mobile_numbers": [
+                "+994555308880",
+                "+994709940056"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 7
+        },
+        {
+            "seller_id": "12155586",
+            "shop_name": "2_ci_el_esyalarin_satisi_",
+            "shop_url": "https://lalafo.az/user/12155586",
+            "mobile_numbers": [
+                "+994553008754"
+            ],
+            "categories": [
+                "Təmir və tikinti"
+            ],
+            "ads_count": 315
+        },
+        {
+            "seller_id": "2983373",
+            "shop_name": "@ OfiS_Mebel_",
+            "shop_url": "https://lalafo.az/user/2983373",
+            "mobile_numbers": [
+                "+994552102866"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 387
+        },
+        {
+            "seller_id": "2775730",
+            "shop_name": "@nomre_vip_baki",
+            "shop_url": "https://lalafo.az/user/2775730",
+            "mobile_numbers": [
+                "+994553184900"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 189
+        },
+        {
+            "seller_id": "9393209",
+            "shop_name": "\\",
+            "shop_url": "https://lalafo.az/user/9393209",
+            "mobile_numbers": [
+                "+994554420221",
+                "+994557932015"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 57
+        },
+        {
+            "seller_id": "14765937",
+            "shop_name": "A ❣️ H",
+            "shop_url": "https://lalafo.az/user/14765937",
+            "mobile_numbers": [
+                "+994556042515",
+                "+994516002515"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Şəxsi əşyalar"
+            ],
+            "ads_count": 909
+        },
+        {
+            "seller_id": "10349101",
+            "shop_name": "A.F Electronics",
+            "shop_url": "https://lalafo.az/user/10349101",
+            "mobile_numbers": [
+                "+994998191059",
+                "+994708191059"
+            ],
+            "categories": [
+                "Elektronika",
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 2633
+        },
+        {
+            "seller_id": "10579852",
+            "shop_name": "AA Company",
+            "shop_url": "https://lalafo.az/user/10579852",
+            "mobile_numbers": [
+                "+994556383797"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq"
+            ],
+            "ads_count": 557
+        },
+        {
+            "seller_id": "17633634",
+            "shop_name": "AERON_MEBEL",
+            "shop_url": "https://lalafo.az/user/17633634",
+            "mobile_numbers": [
+                "+994707115588"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 45
+        },
+        {
+            "seller_id": "7906197",
+            "shop_name": "AF METAL",
+            "shop_url": "https://lalafo.az/user/7906197",
+            "mobile_numbers": [
+                "+994705449000",
+                "+994705440000",
+                "+994555449000",
+                "+994553559307"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 357
+        },
+        {
+            "seller_id": "10559221",
+            "shop_name": "afa.mebel",
+            "shop_url": "https://lalafo.az/user/10559221",
+            "mobile_numbers": [
+                "+994515858543"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 1021
+        },
+        {
+            "seller_id": "12870703",
+            "shop_name": "Afdandil",
+            "shop_url": "https://lalafo.az/user/12870703",
+            "mobile_numbers": [
+                "+994702776171"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 33
+        },
+        {
+            "seller_id": "15152532",
+            "shop_name": "afiq usda",
+            "shop_url": "https://lalafo.az/user/15152532",
+            "mobile_numbers": [
+                "+994554222682"
+            ],
+            "categories": [
+                "Xidmətlər"
+            ],
+            "ads_count": 3
+        },
+        {
+            "seller_id": "12243191",
+            "shop_name": "ahmetaliyev100",
+            "shop_url": "https://lalafo.az/user/12243191",
+            "mobile_numbers": [
+                "+994702222252"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 77
+        },
+        {
+            "seller_id": "15626801",
+            "shop_name": "Aidə xanım",
+            "shop_url": "https://lalafo.az/user/15626801",
+            "mobile_numbers": [
+                "+994556575065"
+            ],
+            "categories": [
+                "Şəxsi əşyalar"
+            ],
+            "ads_count": 797
+        },
+        {
+            "seller_id": "16640001",
+            "shop_name": "Akif Oglu INSAAT",
+            "shop_url": "https://lalafo.az/user/16640001",
+            "mobile_numbers": [
+                "+994707892757"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 609
+        },
+        {
+            "seller_id": "2679650",
+            "shop_name": "Akvarium__ fish",
+            "shop_url": "https://lalafo.az/user/2679650",
+            "mobile_numbers": [
+                "+994702345400"
+            ],
+            "categories": [
+                "Heyvanlar"
+            ],
+            "ads_count": 59
+        },
+        {
+            "seller_id": "17000557",
+            "shop_name": "alec_store",
+            "shop_url": "https://lalafo.az/user/17000557",
+            "mobile_numbers": [
+                "+994101230012"
+            ],
+            "categories": [
+                "Elektronika",
+                "Şəxsi əşyalar"
+            ],
+            "ads_count": 37
+        },
+        {
+            "seller_id": "13539658",
+            "shop_name": "Altun Mebel",
+            "shop_url": "https://lalafo.az/user/13539658",
+            "mobile_numbers": [
+                "+994514008998"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 191
+        },
+        {
+            "seller_id": "11409082",
+            "shop_name": "Alya",
+            "shop_url": "https://lalafo.az/user/11409082",
+            "mobile_numbers": [
+                "+994502078116"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 37
+        },
+        {
+            "seller_id": "15834431",
+            "shop_name": "Anarapozisatlant",
+            "shop_url": "https://lalafo.az/user/15834431",
+            "mobile_numbers": [
+                "+994103127809"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Elektronika"
+            ],
+            "ads_count": 37
+        },
+        {
+            "seller_id": "14879465",
+            "shop_name": "anaratlantpozis",
+            "shop_url": "https://lalafo.az/user/14879465",
+            "mobile_numbers": [
+                "+994559632828"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 84
+        },
+        {
+            "seller_id": "14969875",
+            "shop_name": "Apexdoor",
+            "shop_url": "https://lalafo.az/user/14969875",
+            "mobile_numbers": [
+                "+994504443007"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 122
+        },
+        {
+            "seller_id": "10549659",
+            "shop_name": "ARS GROUP",
+            "shop_url": "https://lalafo.az/user/10549659",
+            "mobile_numbers": [
+                "+994777108410",
+                "+994777140047"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 5911
+        },
+        {
+            "seller_id": "10932146",
+            "shop_name": "Arzu",
+            "shop_url": "https://lalafo.az/user/10932146",
+            "mobile_numbers": [
+                "+994707525358",
+                "+994707525356",
+                "+994552026978",
+                "+994513505374",
+                "+994707525326"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 805
+        },
+        {
+            "seller_id": "13718192",
+            "shop_name": "ASAN_STORE",
+            "shop_url": "https://lalafo.az/user/13718192",
+            "mobile_numbers": [
+                "+994778040000"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Mebel"
+            ],
+            "ads_count": 733
+        },
+        {
+            "seller_id": "3241334",
+            "shop_name": "Asiman",
+            "shop_url": "https://lalafo.az/user/3241334",
+            "mobile_numbers": [
+                "+994557422594"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq"
+            ],
+            "ads_count": 51
+        },
+        {
+            "seller_id": "12102372",
+            "shop_name": "Asya",
+            "shop_url": "https://lalafo.az/user/12102372",
+            "mobile_numbers": [
+                "+994508518814",
+                "+994552955917"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 485
+        },
+        {
+            "seller_id": "15372398",
+            "shop_name": "ATASH MMC",
+            "shop_url": "https://lalafo.az/user/15372398",
+            "mobile_numbers": [
+                "+994519456006"
+            ],
+            "categories": [
+                "Təmir və tikinti",
+                "Xidmətlər"
+            ],
+            "ads_count": 67
+        },
+        {
+            "seller_id": "9189660",
+            "shop_name": "AVANT AGRO",
+            "shop_url": "https://lalafo.az/user/9189660",
+            "mobile_numbers": [
+                "+994552325158",
+                "+994556705158",
+                "+994502272630"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq"
+            ],
+            "ads_count": 699
+        },
+        {
+            "seller_id": "17553261",
+            "shop_name": "AvenraHome",
+            "shop_url": "https://lalafo.az/user/17553261",
+            "mobile_numbers": [
+                "+994707111422"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 102
+        },
+        {
+            "seller_id": "14807466",
+            "shop_name": "AVERA SERVIS MMC",
+            "shop_url": "https://lalafo.az/user/14807466",
+            "mobile_numbers": [
+                "+994704333239"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Təmir və tikinti",
+                "Xidmətlər"
+            ],
+            "ads_count": 495
+        },
+        {
+            "seller_id": "14885272",
+            "shop_name": "Avto Ram",
+            "shop_url": "https://lalafo.az/user/14885272",
+            "mobile_numbers": [
+                "+994505153355"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 355
+        },
+        {
+            "seller_id": "2664847",
+            "shop_name": "Avtomobil ehtiyat hissələri",
+            "shop_url": "https://lalafo.az/user/2664847",
+            "mobile_numbers": [
+                "+994554605601"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 997
+        },
+        {
+            "seller_id": "14473176",
+            "shop_name": "AvtoşüşəBaku",
+            "shop_url": "https://lalafo.az/user/14473176",
+            "mobile_numbers": [
+                "+994553633534"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 185
+        },
+        {
+            "seller_id": "15642633",
+            "shop_name": "Aydin",
+            "shop_url": "https://lalafo.az/user/15642633",
+            "mobile_numbers": [
+                "+994557780030"
+            ],
+            "categories": [
+                "Heyvanlar"
+            ],
+            "ads_count": 5
+        },
+        {
+            "seller_id": "10618815",
+            "shop_name": "Aynur xanim",
+            "shop_url": "https://lalafo.az/user/10618815",
+            "mobile_numbers": [
+                "+994554891255"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Elektronika"
+            ],
+            "ads_count": 120
+        },
+        {
+            "seller_id": "15820472",
+            "shop_name": "Ayxan",
+            "shop_url": "https://lalafo.az/user/15820472",
+            "mobile_numbers": [
+                "+994557932221"
+            ],
+            "categories": [
+                "Təmir və tikinti"
+            ],
+            "ads_count": 21
+        },
+        {
+            "seller_id": "14667000",
+            "shop_name": "Azad",
+            "shop_url": "https://lalafo.az/user/14667000",
+            "mobile_numbers": [
+                "+994993102829"
+            ],
+            "categories": [
+                "Nəqliyyat",
+                "Xidmətlər"
+            ],
+            "ads_count": 59
+        },
+        {
+            "seller_id": "15266415",
+            "shop_name": "AzBat",
+            "shop_url": "https://lalafo.az/user/15266415",
+            "mobile_numbers": [
+                "+994503903696"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 2193
+        },
+        {
+            "seller_id": "8379042",
+            "shop_name": "Azcosmetics MMC",
+            "shop_url": "https://lalafo.az/azcosmetics",
+            "mobile_numbers": [
+                "+994508940052",
+                "+994504522616",
+                "+994707375899"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq"
+            ],
+            "ads_count": 3
+        },
+        {
+            "seller_id": "14232528",
+            "shop_name": "Baku store",
+            "shop_url": "https://lalafo.az/user/14232528",
+            "mobile_numbers": [
+                "+994502430063"
+            ],
+            "categories": [
+                "İdman və hobbi"
+            ],
+            "ads_count": 152
+        },
+        {
+            "seller_id": "2686593",
+            "shop_name": "Bağ mebellleri",
+            "shop_url": "https://lalafo.az/user/2686593",
+            "mobile_numbers": [
+                "+994993906060",
+                "+994774186777"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 132
+        },
+        {
+            "seller_id": "17667751",
+            "shop_name": "beboline. az",
+            "shop_url": "https://lalafo.az/user/17667751",
+            "mobile_numbers": [
+                "+994555511216"
+            ],
+            "categories": [
+                "Uşaq dünyası"
+            ],
+            "ads_count": 213
+        },
+        {
+            "seller_id": "12151895",
+            "shop_name": "beton kesen deşen",
+            "shop_url": "https://lalafo.az/user/12151895",
+            "mobile_numbers": [
+                "+994559849398",
+                "+994709849398"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Ev və bağ",
+                "Təmir və tikinti",
+                "Xidmətlər"
+            ],
+            "ads_count": 57
+        },
+        {
+            "seller_id": "10110168",
+            "shop_name": "Beton kəsmə deşmə xidməti",
+            "shop_url": "https://lalafo.az/user/10110168",
+            "mobile_numbers": [
+                "+994505630121",
+                "+994504590464"
+            ],
+            "categories": [
+                "Xidmətlər"
+            ],
+            "ads_count": 142
+        },
+        {
+            "seller_id": "2657674",
+            "shop_name": "Beton kəsmə Karot ustası",
+            "shop_url": "https://lalafo.az/user/2657674",
+            "mobile_numbers": [
+                "+994514037233"
+            ],
+            "categories": [
+                "Daşınmaz əmlak",
+                "Ev və bağ",
+                "Təmir və tikinti",
+                "Xidmətlər"
+            ],
+            "ads_count": 59
+        },
+        {
+            "seller_id": "11000820",
+            "shop_name": "beton kəsən beton deşən",
+            "shop_url": "https://lalafo.az/user/11000820",
+            "mobile_numbers": [
+                "+994552701611",
+                "+994709849398",
+                "+994559849398"
+            ],
+            "categories": [
+                "Xidmətlər"
+            ],
+            "ads_count": 92
+        },
+        {
+            "seller_id": "10133460",
+            "shop_name": "Beton Kəsən Karotçu",
+            "shop_url": "https://lalafo.az/user/10133460",
+            "mobile_numbers": [
+                "+994552666257",
+                "+994776333637"
+            ],
+            "categories": [
+                "Xidmətlər"
+            ],
+            "ads_count": 549
+        },
+        {
+            "seller_id": "2708036",
+            "shop_name": "Bilyard Ustası",
+            "shop_url": "https://lalafo.az/user/2708036",
+            "mobile_numbers": [
+                "+994502023012"
+            ],
+            "categories": [
+                "İdman və hobbi"
+            ],
+            "ads_count": 90
+        },
+        {
+            "seller_id": "16213136",
+            "shop_name": "Bine qesebesi.Masajci Xanim",
+            "shop_url": "https://lalafo.az/user/16213136",
+            "mobile_numbers": [
+                "+994518135819"
+            ],
+            "categories": [
+                "Xidmətlər"
+            ],
+            "ads_count": 3
+        },
+        {
+            "seller_id": "12153062",
+            "shop_name": "BİNE SOYUDUCU ALİSİ VE SATİSİ",
+            "shop_url": "https://lalafo.az/user/12153062",
+            "mobile_numbers": [
+                "+994775147084"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 179
+        },
+        {
+            "seller_id": "6670876",
+            "shop_name": "BİNƏ ƏMLAK MƏRKƏZİ",
+            "shop_url": "https://lalafo.az/user/6670876",
+            "mobile_numbers": [
+                "+994707730909"
+            ],
+            "categories": [
+                "Daşınmaz əmlak"
+            ],
+            "ads_count": 154
+        },
+        {
+            "seller_id": "14503395",
+            "shop_name": "Bolnox",
+            "shop_url": "https://lalafo.az/user/14503395",
+            "mobile_numbers": [
+                "+994998805353"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Elektronika",
+                "Ev və bağ"
+            ],
+            "ads_count": 403
+        },
+        {
+            "seller_id": "9010898",
+            "shop_name": "Booms Restoran Avadanlığı",
+            "shop_url": "https://lalafo.az/user/9010898",
+            "mobile_numbers": [
+                "+994556002690"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 211
+        },
+        {
+            "seller_id": "13964253",
+            "shop_name": "Brend mebel sifarişle.",
+            "shop_url": "https://lalafo.az/user/13964253",
+            "mobile_numbers": [
+                "+994507644916"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 4509
+        },
+        {
+            "seller_id": "12104987",
+            "shop_name": "Buta Mebel",
+            "shop_url": "https://lalafo.az/user/12104987",
+            "mobile_numbers": [
+                "+994554026601"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 1735
+        },
+        {
+            "seller_id": "15632996",
+            "shop_name": "BY Playstation",
+            "shop_url": "https://lalafo.az/user/15632996",
+            "mobile_numbers": [
+                "+994515631313"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 181
+        },
+        {
+            "seller_id": "16542314",
+            "shop_name": "Bytahire home",
+            "shop_url": "https://lalafo.az/user/16542314",
+            "mobile_numbers": [
+                "+994708260910"
+            ],
+            "categories": [
+                "Uşaq dünyası"
+            ],
+            "ads_count": 6403
+        },
+        {
+            "seller_id": "10599666",
+            "shop_name": "Camp Store",
+            "shop_url": "https://lalafo.az/user/10599666",
+            "mobile_numbers": [
+                "+994773403566",
+                "+994554773147"
+            ],
+            "categories": [
+                "İdman və hobbi",
+                "Nəqliyyat"
+            ],
+            "ads_count": 3005
+        },
+        {
+            "seller_id": "15511085",
+            "shop_name": "CAMPİNG STORE",
+            "shop_url": "https://lalafo.az/user/15511085",
+            "mobile_numbers": [
+                "+994777484874"
+            ],
+            "categories": [
+                "İdman və hobbi"
+            ],
+            "ads_count": 31
+        },
+        {
+            "seller_id": "17798735",
+            "shop_name": "Ceramik aləmi",
+            "shop_url": "https://lalafo.az/user/17798735",
+            "mobile_numbers": [
+                "+994503857403"
+            ],
+            "categories": [
+                "Təmir və tikinti"
+            ],
+            "ads_count": 345
+        },
+        {
+            "seller_id": "15735358",
+            "shop_name": "Chevrolet_Avto",
+            "shop_url": "https://lalafo.az/user/15735358",
+            "mobile_numbers": [
+                "+994552303919"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 629
+        },
+        {
+            "seller_id": "17736299",
+            "shop_name": "Dada bəy",
+            "shop_url": "https://lalafo.az/user/17736299",
+            "mobile_numbers": [
+                "+994771157897"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 37
+        },
+        {
+            "seller_id": "8484878",
+            "shop_name": "Dam örtüklərin satışı zavod satş",
+            "shop_url": "https://lalafo.az/user/8484878",
+            "mobile_numbers": [
+                "+994507260014",
+                "+994707260014"
+            ],
+            "categories": [
+                "Daşınmaz əmlak"
+            ],
+            "ads_count": 455
+        },
+        {
+            "seller_id": "15722785",
+            "shop_name": "Dağıdıcı - Beton kəsən",
+            "shop_url": "https://lalafo.az/user/15722785",
+            "mobile_numbers": [
+                "+994555970701",
+                "+994994002222",
+                "+994708299999",
+                "+994504425009",
+                "+994775525756",
+                "+994514037233"
+            ],
+            "categories": [
+                "Təmir və tikinti",
+                "Xidmətlər"
+            ],
+            "ads_count": 313
+        },
+        {
+            "seller_id": "14993632",
+            "shop_name": "debaluxmobilya",
+            "shop_url": "https://lalafo.az/user/14993632",
+            "mobile_numbers": [
+                "+994556511556",
+                "+994557003915"
+            ],
+            "categories": [
+                "Daşınmaz əmlak",
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 659
+        },
+        {
+            "seller_id": "12369066",
+            "shop_name": "Demir_Alemi",
+            "shop_url": "https://lalafo.az/user/12369066",
+            "mobile_numbers": [
+                "+994518316685"
+            ],
+            "categories": [
+                "Xidmətlər"
+            ],
+            "ads_count": 407
+        },
+        {
+            "seller_id": "9399683",
+            "shop_name": "Dürüst İşədüzəltmə Mərkəzi",
+            "shop_url": "https://lalafo.az/user/9399683",
+            "mobile_numbers": [
+                "+994558876005"
+            ],
+            "categories": [
+                "İş"
+            ],
+            "ads_count": 150
+        },
+        {
+            "seller_id": "7625578",
+            "shop_name": "Dəri məhsullar",
+            "shop_url": "https://lalafo.az/user/7625578",
+            "mobile_numbers": [
+                "+994519460909",
+                "+994552139083"
+            ],
+            "categories": [
+                "Şəxsi əşyalar"
+            ],
+            "ads_count": 21
+        },
+        {
+            "seller_id": "2791924",
+            "shop_name": "Easyshop",
+            "shop_url": "https://lalafo.az/user/2791924",
+            "mobile_numbers": [
+                "+994556961154"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Daşınmaz əmlak",
+                "Elektronika",
+                "İş",
+                "Mebel"
+            ],
+            "ads_count": 543
+        },
+        {
+            "seller_id": "8619492",
+            "shop_name": "Ehtiram",
+            "shop_url": "https://lalafo.az/user/8619492",
+            "mobile_numbers": [
+                "+994702222293"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 3
+        },
+        {
+            "seller_id": "11775946",
+            "shop_name": "Ehtiyat hissələri",
+            "shop_url": "https://lalafo.az/user/11775946",
+            "mobile_numbers": [
+                "+994558900081"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 130
+        },
+        {
+            "seller_id": "9315801",
+            "shop_name": "El-Nur",
+            "shop_url": "https://lalafo.az/user/9315801",
+            "mobile_numbers": [
+                "+994503803673"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 873
+        },
+        {
+            "seller_id": "11430111",
+            "shop_name": "El_Nur",
+            "shop_url": "https://lalafo.az/user/11430111",
+            "mobile_numbers": [
+                "+994507979262"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 737
+        },
+        {
+            "seller_id": "9343624",
+            "shop_name": "Elay_mebel",
+            "shop_url": "https://lalafo.az/user/9343624",
+            "mobile_numbers": [
+                "+994514597973"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 1169
+        },
+        {
+            "seller_id": "2677450",
+            "shop_name": "Elbay-az",
+            "shop_url": "https://lalafo.az/user/2677450",
+            "mobile_numbers": [
+                "+994556040090"
+            ],
+            "categories": [
+                "Elektronika",
+                "Ev və bağ"
+            ],
+            "ads_count": 437
+        },
+        {
+            "seller_id": "9728119",
+            "shop_name": "Elnur",
+            "shop_url": "https://lalafo.az/user/9728119",
+            "mobile_numbers": [
+                "+994518663939"
+            ],
+            "categories": [
+                "Elektronika",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 6089
+        },
+        {
+            "seller_id": "15412980",
+            "shop_name": "Elnur bəy",
+            "shop_url": "https://lalafo.az/user/15412980",
+            "mobile_numbers": [
+                "+994502558045"
+            ],
+            "categories": [
+                "İş"
+            ],
+            "ads_count": 7
+        },
+        {
+            "seller_id": "15929144",
+            "shop_name": "Elseven Konteyner",
+            "shop_url": "https://lalafo.az/user/15929144",
+            "mobile_numbers": [
+                "+994707171555"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq"
+            ],
+            "ads_count": 49
+        },
+        {
+            "seller_id": "15050816",
+            "shop_name": "Emil",
+            "shop_url": "https://lalafo.az/user/15050816",
+            "mobile_numbers": [
+                "+994993977677"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 31
+        },
+        {
+            "seller_id": "12649497",
+            "shop_name": "Emil Rzayev",
+            "shop_url": "https://lalafo.az/user/12649497",
+            "mobile_numbers": [
+                "+994513220022"
+            ],
+            "categories": [
+                "Təmir və tikinti"
+            ],
+            "ads_count": 110
+        },
+        {
+            "seller_id": "9822122",
+            "shop_name": "eurohome vasif",
+            "shop_url": "https://lalafo.az/user/9822122",
+            "mobile_numbers": [
+                "+994557083658"
+            ],
+            "categories": [
+                "Elektronika",
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 409
+        },
+        {
+            "seller_id": "9246473",
+            "shop_name": "EXPERT.LTD",
+            "shop_url": "https://lalafo.az/user/9246473",
+            "mobile_numbers": [
+                "+994557903050"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Elektronika",
+                "Nəqliyyat"
+            ],
+            "ads_count": 175
+        },
+        {
+            "seller_id": "7575601",
+            "shop_name": "Eşqin usta",
+            "shop_url": "https://lalafo.az/user/7575601",
+            "mobile_numbers": [
+                "+994509705848"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 301
+        },
+        {
+            "seller_id": "9521153",
+            "shop_name": "Fabrikdən satiş. 1 Hövsan",
+            "shop_url": "https://lalafo.az/user/9521153",
+            "mobile_numbers": [
+                "+994556320025"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 1259
+        },
+        {
+            "seller_id": "17387247",
+            "shop_name": "Farid",
+            "shop_url": "https://lalafo.az/user/17387247",
+            "mobile_numbers": [
+                "+994556923525"
+            ],
+            "categories": [
+                "Nəqliyyat",
+                "Xidmətlər"
+            ],
+            "ads_count": 21
+        },
+        {
+            "seller_id": "16617789",
+            "shop_name": "FF STORE",
+            "shop_url": "https://lalafo.az/user/16617789",
+            "mobile_numbers": [
+                "+994508000642"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 25
+        },
+        {
+            "seller_id": "13801734",
+            "shop_name": "Firma",
+            "shop_url": "https://lalafo.az/user/13801734",
+            "mobile_numbers": [
+                "+994512528950"
+            ],
+            "categories": [
+                "Elektronika",
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 685
+        },
+        {
+            "seller_id": "13839600",
+            "shop_name": "Fresh Drop Su Filterleri",
+            "shop_url": "https://lalafo.az/user/13839600",
+            "mobile_numbers": [
+                "+994706555650"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 124
+        },
+        {
+            "seller_id": "11769829",
+            "shop_name": "FRSPORT İdman malları",
+            "shop_url": "https://lalafo.az/user/11769829",
+            "mobile_numbers": [
+                "+994702363671",
+                "+994508363671"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Elektronika",
+                "İdman və hobbi",
+                "Şəxsi əşyalar",
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 1237
+        },
+        {
+            "seller_id": "14307907",
+            "shop_name": "Furqan Computers",
+            "shop_url": "https://lalafo.az/user/14307907",
+            "mobile_numbers": [
+                "+994512158262"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 1259
+        },
+        {
+            "seller_id": "17330178",
+            "shop_name": "Fəxri",
+            "shop_url": "https://lalafo.az/user/17330178",
+            "mobile_numbers": [
+                "+994555263454",
+                "+994555780896"
+            ],
+            "categories": [
+                "Mebel",
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 1841
+        },
+        {
+            "seller_id": "17278347",
+            "shop_name": "GameStore",
+            "shop_url": "https://lalafo.az/user/17278347",
+            "mobile_numbers": [
+                "+994504578801"
+            ],
+            "categories": [
+                "Xidmətlər"
+            ],
+            "ads_count": 449
+        },
+        {
+            "seller_id": "6818736",
+            "shop_name": "GARAJ 523",
+            "shop_url": "https://lalafo.az/user/6818736",
+            "mobile_numbers": [
+                "+994502655058"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 839
+        },
+        {
+            "seller_id": "14975839",
+            "shop_name": "Garant Compressor",
+            "shop_url": "https://lalafo.az/user/14975839",
+            "mobile_numbers": [
+                "+994553962093",
+                "+994557218938",
+                "+994559769656"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Ev və bağ"
+            ],
+            "ads_count": 112
+        },
+        {
+            "seller_id": "8927518",
+            "shop_name": "GARANT COMPRESSOR",
+            "shop_url": "https://lalafo.az/user/8927518",
+            "mobile_numbers": [
+                "+994559769656"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq"
+            ],
+            "ads_count": 116
+        },
+        {
+            "seller_id": "7911133",
+            "shop_name": "GENCLİK SERVİSE PLAYSTATION",
+            "shop_url": "https://lalafo.az/user/7911133",
+            "mobile_numbers": [
+                "+994556619525",
+                "+994777171407"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 755
+        },
+        {
+            "seller_id": "6124167",
+            "shop_name": "Generator alışı satışı",
+            "shop_url": "https://lalafo.az/user/6124167",
+            "mobile_numbers": [
+                "+994506812125"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 96
+        },
+        {
+            "seller_id": "15683411",
+            "shop_name": "GLOBAL AVTO",
+            "shop_url": "https://lalafo.az/user/15683411",
+            "mobile_numbers": [
+                "+994553570333"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 683
+        },
+        {
+            "seller_id": "2726679",
+            "shop_name": "Global Trading",
+            "shop_url": "https://lalafo.az/user/2726679",
+            "mobile_numbers": [
+                "+994554307303",
+                "+994556008339"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq"
+            ],
+            "ads_count": 124
+        },
+        {
+            "seller_id": "11571958",
+            "shop_name": "gulya xanim",
+            "shop_url": "https://lalafo.az/user/11571958",
+            "mobile_numbers": [
+                "+994708741418"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 351
+        },
+        {
+            "seller_id": "10763032",
+            "shop_name": "Gülbala İsmayılov",
+            "shop_url": "https://lalafo.az/user/10763032",
+            "mobile_numbers": [
+                "+994559695988",
+                "+994552017671",
+                "+994707770755"
+            ],
+            "categories": [
+                "Elektronika",
+                "Xidmətlər"
+            ],
+            "ads_count": 29
+        },
+        {
+            "seller_id": "12150524",
+            "shop_name": "GÜNLÜK_LÜKS_MENZILLER",
+            "shop_url": "https://lalafo.az/user/12150524",
+            "mobile_numbers": [
+                "+994507629877",
+                "+994707658858"
+            ],
+            "categories": [
+                "Daşınmaz əmlak"
+            ],
+            "ads_count": 23
+        },
+        {
+            "seller_id": "9468427",
+            "shop_name": "Hacı Elsad",
+            "shop_url": "https://lalafo.az/user/9468427",
+            "mobile_numbers": [
+                "+994556918749"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Daşınmaz əmlak",
+                "Elektronika",
+                "Ev və bağ",
+                "Mebel",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 1067
+        },
+        {
+            "seller_id": "15379912",
+            "shop_name": "Hasanoğlu",
+            "shop_url": "https://lalafo.az/user/15379912",
+            "mobile_numbers": [
+                "+994557454046"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Ev və bağ"
+            ],
+            "ads_count": 59
+        },
+        {
+            "seller_id": "17153212",
+            "shop_name": "Havalandırma",
+            "shop_url": "https://lalafo.az/user/17153212",
+            "mobile_numbers": [
+                "+994555220777"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Təmir və tikinti",
+                "Xidmətlər"
+            ],
+            "ads_count": 79
+        },
+        {
+            "seller_id": "17284275",
+            "shop_name": "Havalandırma sistemləri və restoran avadanlıqları",
+            "shop_url": "https://lalafo.az/user/17284275",
+            "mobile_numbers": [
+                "+994707853999"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 43
+        },
+        {
+            "seller_id": "12448897",
+            "shop_name": "Heydər",
+            "shop_url": "https://lalafo.az/user/12448897",
+            "mobile_numbers": [
+                "+994504970113"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq"
+            ],
+            "ads_count": 17
+        },
+        {
+            "seller_id": "15250875",
+            "shop_name": "Huseyn",
+            "shop_url": "https://lalafo.az/user/15250875",
+            "mobile_numbers": [
+                "+994554020709",
+                "+994771032640"
+            ],
+            "categories": [
+                "İş"
+            ],
+            "ads_count": 67
+        },
+        {
+            "seller_id": "13926485",
+            "shop_name": "Ideal Avto",
+            "shop_url": "https://lalafo.az/user/13926485",
+            "mobile_numbers": [
+                "+994515126759"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 275
+        },
+        {
+            "seller_id": "12299897",
+            "shop_name": "ikinci el meiset satisi  vp yazın",
+            "shop_url": "https://lalafo.az/user/12299897",
+            "mobile_numbers": [
+                "+994557609960"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 3391
+        },
+        {
+            "seller_id": "12495270",
+            "shop_name": "Ikinci_el_mebel_halalliqla",
+            "shop_url": "https://lalafo.az/user/12495270",
+            "mobile_numbers": [
+                "+994557975805"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Elektronika",
+                "Mebel"
+            ],
+            "ads_count": 6323
+        },
+        {
+            "seller_id": "11387186",
+            "shop_name": "Ikıncı el mebel",
+            "shop_url": "https://lalafo.az/user/11387186",
+            "mobile_numbers": [
+                "+994506667381"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 495
+        },
+        {
+            "seller_id": "3183668",
+            "shop_name": "inci_mebel",
+            "shop_url": "https://lalafo.az/user/3183668",
+            "mobile_numbers": [
+                "+994514935161"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 6469
+        },
+        {
+            "seller_id": "2904279",
+            "shop_name": "isa",
+            "shop_url": "https://lalafo.az/user/2904279",
+            "mobile_numbers": [
+                "+994553245041",
+                "+994708039312",
+                "+994708438212",
+                "+994559710131"
+            ],
+            "categories": [
+                "Daşınmaz əmlak",
+                "Elektronika",
+                "Ev və bağ",
+                "Heyvanlar",
+                "İş"
+            ],
+            "ads_count": 447
+        },
+        {
+            "seller_id": "3304913",
+            "shop_name": "Islam",
+            "shop_url": "https://lalafo.az/user/3304913",
+            "mobile_numbers": [
+                "+994503121590"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 11
+        },
+        {
+            "seller_id": "17272226",
+            "shop_name": "İbay.az",
+            "shop_url": "https://lalafo.az/user/17272226",
+            "mobile_numbers": [
+                "+994517771318",
+                "+994517771319"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Daşınmaz əmlak",
+                "Elektronika",
+                "İdman və hobbi",
+                "Mebel",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 799
+        },
+        {
+            "seller_id": "8169967",
+            "shop_name": "İkinci El Tikinti Materialları",
+            "shop_url": "https://lalafo.az/user/8169967",
+            "mobile_numbers": [
+                "+994518111113"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 211
+        },
+        {
+            "seller_id": "3072650",
+            "shop_name": "İkinci Əl mebellerin Alışı-Satişı",
+            "shop_url": "https://lalafo.az/user/3072650",
+            "mobile_numbers": [
+                "+994553590146"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 3
+        },
+        {
+            "seller_id": "11283661",
+            "shop_name": "İkinciəl_herşey",
+            "shop_url": "https://lalafo.az/user/11283661",
+            "mobile_numbers": [
+                "+994774614574"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 47
+        },
+        {
+            "seller_id": "6853445",
+            "shop_name": "İnnovation.az",
+            "shop_url": "https://lalafo.az/user/6853445",
+            "mobile_numbers": [
+                "+994775300015"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "İdman və hobbi"
+            ],
+            "ads_count": 931
+        },
+        {
+            "seller_id": "8952337",
+            "shop_name": "İnvest Home",
+            "shop_url": "https://lalafo.az/user/8952337",
+            "mobile_numbers": [
+                "+994554400546",
+                "+994552227754",
+                "+994552223887",
+                "+994554400541",
+                "+994554400574",
+                "+994554400558"
+            ],
+            "categories": [
+                "Daşınmaz əmlak"
+            ],
+            "ads_count": 481
+        },
+        {
+            "seller_id": "13036607",
+            "shop_name": "İpək Halı",
+            "shop_url": "https://lalafo.az/user/13036607",
+            "mobile_numbers": [
+                "+994702149474"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 225
+        },
+        {
+            "seller_id": "13001933",
+            "shop_name": "İSA  Məhərrəmov",
+            "shop_url": "https://lalafo.az/user/13001933",
+            "mobile_numbers": [
+                "+994707000404"
+            ],
+            "categories": [
+                "İdman və hobbi"
+            ],
+            "ads_count": 187
+        },
+        {
+            "seller_id": "15668222",
+            "shop_name": "Jeyhun Ahmadov",
+            "shop_url": "https://lalafo.az/user/15668222",
+            "mobile_numbers": [
+                "+994554440830"
+            ],
+            "categories": [
+                "Daşınmaz əmlak"
+            ],
+            "ads_count": 17
+        },
+        {
+            "seller_id": "11643919",
+            "shop_name": "Kamera Kredit ŞİRKƏTİ",
+            "shop_url": "https://lalafo.az/user/11643919",
+            "mobile_numbers": [
+                "+994702448515",
+                "+994504914106"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 23
+        },
+        {
+            "seller_id": "3378052",
+            "shop_name": "KompShop",
+            "shop_url": "https://lalafo.az/user/3378052",
+            "mobile_numbers": [
+                "+994559464520"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 94
+        },
+        {
+            "seller_id": "3383000",
+            "shop_name": "Komputer Alısı Satışı PrimeComputers",
+            "shop_url": "https://lalafo.az/user/3383000",
+            "mobile_numbers": [
+                "+994517117373",
+                "+994556092409"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 41
+        },
+        {
+            "seller_id": "2868994",
+            "shop_name": "Koruge Polietilen Kas Metak",
+            "shop_url": "https://lalafo.az/user/2868994",
+            "mobile_numbers": [
+                "+994703452323"
+            ],
+            "categories": [
+                "Təmir və tikinti"
+            ],
+            "ads_count": 233
+        },
+        {
+            "seller_id": "9289227",
+            "shop_name": "Kovrolux_",
+            "shop_url": "https://lalafo.az/user/9289227",
+            "mobile_numbers": [
+                "+994706000855"
+            ],
+            "categories": [
+                "Mebel",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 189
+        },
+        {
+            "seller_id": "13372621",
+            "shop_name": "KRAL MAKİNA",
+            "shop_url": "https://lalafo.az/user/13372621",
+            "mobile_numbers": [
+                "+994502060708"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 281
+        },
+        {
+            "seller_id": "15881714",
+            "shop_name": "KRESLO OFİS",
+            "shop_url": "https://lalafo.az/user/15881714",
+            "mobile_numbers": [
+                "+994514991122"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 233
+        },
+        {
+            "seller_id": "6814787",
+            "shop_name": "Lamini Mebel",
+            "shop_url": "https://lalafo.az/user/6814787",
+            "mobile_numbers": [
+                "+994558114488"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 4549
+        },
+        {
+            "seller_id": "16352949",
+            "shop_name": "Lamiye",
+            "shop_url": "https://lalafo.az/user/16352949",
+            "mobile_numbers": [
+                "+994504324173",
+                "+994516352245"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 165
+        },
+        {
+            "seller_id": "14974221",
+            "shop_name": "LAMİNAT ALƏMİ",
+            "shop_url": "https://lalafo.az/user/14974221",
+            "mobile_numbers": [
+                "+994773348267"
+            ],
+            "categories": [
+                "Təmir və tikinti"
+            ],
+            "ads_count": 455
+        },
+        {
+            "seller_id": "12939229",
+            "shop_name": "Legend Electronics",
+            "shop_url": "https://lalafo.az/user/12939229",
+            "mobile_numbers": [
+                "+994708178808",
+                "+994516649757"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 575
+        },
+        {
+            "seller_id": "3482009",
+            "shop_name": "LİDER PLAST",
+            "shop_url": "https://lalafo.az/user/3482009",
+            "mobile_numbers": [
+                "+994703476646"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 162
+        },
+        {
+            "seller_id": "14694345",
+            "shop_name": "M. M. Mobilya",
+            "shop_url": "https://lalafo.az/user/14694345",
+            "mobile_numbers": [
+                "+994556870946"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 6419
+        },
+        {
+            "seller_id": "11261079",
+            "shop_name": "Mebel dünyası",
+            "shop_url": "https://lalafo.az/user/11261079",
+            "mobile_numbers": [
+                "+994506413896"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 6395
+        },
+        {
+            "seller_id": "2901858",
+            "shop_name": "Mebel evi",
+            "shop_url": "https://lalafo.az/user/2901858",
+            "mobile_numbers": [
+                "+994555829320"
+            ],
+            "categories": [
+                "Daşınmaz əmlak"
+            ],
+            "ads_count": 281
+        },
+        {
+            "seller_id": "15871669",
+            "shop_name": "Mebel sifarişi Anbarı ✨ Əfsanə.x",
+            "shop_url": "https://lalafo.az/user/15871669",
+            "mobile_numbers": [
+                "+994708830860"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 5963
+        },
+        {
+            "seller_id": "2864711",
+            "shop_name": "MebelMan.com",
+            "shop_url": "https://lalafo.az/user/2864711",
+            "mobile_numbers": [
+                "+994505987656"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 727
+        },
+        {
+            "seller_id": "6799956",
+            "shop_name": "MEG MAKINA MMC",
+            "shop_url": "https://lalafo.az/user/6799956",
+            "mobile_numbers": [
+                "+994555780890"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 21
+        },
+        {
+            "seller_id": "7206772",
+            "shop_name": "Meg Makina MMC",
+            "shop_url": "https://lalafo.az/user/7206772",
+            "mobile_numbers": [
+                "+994505022046"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 267
+        },
+        {
+            "seller_id": "6246418",
+            "shop_name": "meg_makina_ehtiyyat_hissələri",
+            "shop_url": "https://lalafo.az/user/6246418",
+            "mobile_numbers": [
+                "+994515599192",
+                "+994555780890"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Elektronika",
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 445
+        },
+        {
+            "seller_id": "13531137",
+            "shop_name": "Meherrem",
+            "shop_url": "https://lalafo.az/user/13531137",
+            "mobile_numbers": [
+                "+994556265090",
+                "+994706065090",
+                "+994776065090"
+            ],
+            "categories": [
+                "Daşınmaz əmlak",
+                "Ev və bağ"
+            ],
+            "ads_count": 158
+        },
+        {
+            "seller_id": "10644372",
+            "shop_name": "Mehri",
+            "shop_url": "https://lalafo.az/user/10644372",
+            "mobile_numbers": [
+                "+994504024424",
+                "+994554994424"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 421
+        },
+        {
+            "seller_id": "9093671",
+            "shop_name": "MEİŞET ALQI SATQISI",
+            "shop_url": "https://lalafo.az/user/9093671",
+            "mobile_numbers": [
+                "+994708444080"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 679
+        },
+        {
+            "seller_id": "11443081",
+            "shop_name": "Melina Decor",
+            "shop_url": "https://lalafo.az/user/11443081",
+            "mobile_numbers": [
+                "+994503119248"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 621
+        },
+        {
+            "seller_id": "14049976",
+            "shop_name": "Melissa Mebel",
+            "shop_url": "https://lalafo.az/user/14049976",
+            "mobile_numbers": [
+                "+994506667543"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 391
+        },
+        {
+            "seller_id": "7661029",
+            "shop_name": "METAL  STORE",
+            "shop_url": "https://lalafo.az/user/7661029",
+            "mobile_numbers": [
+                "+994553544462"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 229
+        },
+        {
+            "seller_id": "11891440",
+            "shop_name": "Mirvari Mebel",
+            "shop_url": "https://lalafo.az/user/11891440",
+            "mobile_numbers": [
+                "+994703420008"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 233
+        },
+        {
+            "seller_id": "9844464",
+            "shop_name": "mobi electronics",
+            "shop_url": "https://lalafo.az/user/9844464",
+            "mobile_numbers": [
+                "+994707034764",
+                "+994771324757",
+                "+994775333307"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 223
+        },
+        {
+            "seller_id": "10592670",
+            "shop_name": "Mobishops.az",
+            "shop_url": "https://lalafo.az/user/10592670",
+            "mobile_numbers": [
+                "+994702881484"
+            ],
+            "categories": [
+                "Elektronika",
+                "İdman və hobbi",
+                "Şəxsi əşyalar",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 353
+        },
+        {
+            "seller_id": "16604429",
+            "shop_name": "Motofly Fleet",
+            "shop_url": "https://lalafo.az/user/16604429",
+            "mobile_numbers": [
+                "+994512407105"
+            ],
+            "categories": [
+                "İş"
+            ],
+            "ads_count": 9
+        },
+        {
+            "seller_id": "6540109",
+            "shop_name": "Muqbil",
+            "shop_url": "https://lalafo.az/user/6540109",
+            "mobile_numbers": [
+                "+994502058823"
+            ],
+            "categories": [
+                "İş",
+                "Xidmətlər"
+            ],
+            "ads_count": 122
+        },
+        {
+            "seller_id": "8772236",
+            "shop_name": "Murad Elektrik Topdan və Pərakəndə",
+            "shop_url": "https://lalafo.az/user/8772236",
+            "mobile_numbers": [
+                "+994559464772"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 271
+        },
+        {
+            "seller_id": "14073691",
+            "shop_name": "Murat",
+            "shop_url": "https://lalafo.az/user/14073691",
+            "mobile_numbers": [
+                "+994773348911",
+                "+994556787890"
+            ],
+            "categories": [
+                "Elektronika",
+                "Ev və bağ"
+            ],
+            "ads_count": 33
+        },
+        {
+            "seller_id": "9617988",
+            "shop_name": "Music Shop Baku",
+            "shop_url": "https://lalafo.az/user/9617988",
+            "mobile_numbers": [
+                "+994504100015"
+            ],
+            "categories": [
+                "İdman və hobbi"
+            ],
+            "ads_count": 1917
+        },
+        {
+            "seller_id": "13995256",
+            "shop_name": "Müasir Havalandırma",
+            "shop_url": "https://lalafo.az/user/13995256",
+            "mobile_numbers": [
+                "+994706225829"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq"
+            ],
+            "ads_count": 1631
+        },
+        {
+            "seller_id": "2963517",
+            "shop_name": "Mürsəl",
+            "shop_url": "https://lalafo.az/user/2963517",
+            "mobile_numbers": [
+                "+994556438800"
+            ],
+            "categories": [
+                "Xidmətlər"
+            ],
+            "ads_count": 7
+        },
+        {
+            "seller_id": "11058945",
+            "shop_name": "Müəllim",
+            "shop_url": "https://lalafo.az/user/11058945",
+            "mobile_numbers": [
+                "+994556830520"
+            ],
+            "categories": [
+                "Elektronika",
+                "İdman və hobbi"
+            ],
+            "ads_count": 132
+        },
+        {
+            "seller_id": "17439595",
+            "shop_name": "Məhəccər, Qapı, Qaynaq işləri",
+            "shop_url": "https://lalafo.az/user/17439595",
+            "mobile_numbers": [
+                "+994502228590"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Təmir və tikinti",
+                "Xidmətlər"
+            ],
+            "ads_count": 285
+        },
+        {
+            "seller_id": "9250263",
+            "shop_name": "Məişət texnika Anbardan satış.Onlayn Aksesuar satişı",
+            "shop_url": "https://lalafo.az/user/9250263",
+            "mobile_numbers": [
+                "+994707180229"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Elektronika"
+            ],
+            "ads_count": 237
+        },
+        {
+            "seller_id": "6671698",
+            "shop_name": "Mətbəx və market avadanlıqları",
+            "shop_url": "https://lalafo.az/user/6671698",
+            "mobile_numbers": [
+                "+994552230129"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq"
+            ],
+            "ads_count": 118
+        },
+        {
+            "seller_id": "13382921",
+            "shop_name": "N1SaatAlemi",
+            "shop_url": "https://lalafo.az/user/13382921",
+            "mobile_numbers": [
+                "+994505423525"
+            ],
+            "categories": [
+                "Şəxsi əşyalar"
+            ],
+            "ads_count": 499
+        },
+        {
+            "seller_id": "3031121",
+            "shop_name": "Naves və Məhhəccər",
+            "shop_url": "https://lalafo.az/user/3031121",
+            "mobile_numbers": [
+                "+994708494070",
+                "+994552382378"
+            ],
+            "categories": [
+                "İş",
+                "Mebel",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 27
+        },
+        {
+            "seller_id": "16848225",
+            "shop_name": "Nicat (Anbarların İcarəsi və Satışı)",
+            "shop_url": "https://lalafo.az/user/16848225",
+            "mobile_numbers": [
+                "+994773230407"
+            ],
+            "categories": [
+                "Daşınmaz əmlak"
+            ],
+            "ads_count": 140
+        },
+        {
+            "seller_id": "17149153",
+            "shop_name": "Nigar Rzayeva",
+            "shop_url": "https://lalafo.az/user/17149153",
+            "mobile_numbers": [
+                "+994503331813"
+            ],
+            "categories": [
+                "İdman və hobbi",
+                "Mebel",
+                "Şəxsi əşyalar"
+            ],
+            "ads_count": 19
+        },
+        {
+            "seller_id": "10134984",
+            "shop_name": "NL yeni mebeller alemi",
+            "shop_url": "https://lalafo.az/user/10134984",
+            "mobile_numbers": [
+                "+994508026099"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 341
+        },
+        {
+            "seller_id": "17661564",
+            "shop_name": "NM Mebel",
+            "shop_url": "https://lalafo.az/user/17661564",
+            "mobile_numbers": [
+                "+994707609030"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 5893
+        },
+        {
+            "seller_id": "10798736",
+            "shop_name": "NN MEBEL",
+            "shop_url": "https://lalafo.az/user/10798736",
+            "mobile_numbers": [
+                "+994709069000",
+                "+994705059767",
+                "+994707151012"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 305
+        },
+        {
+            "seller_id": "8689595",
+            "shop_name": "Noutbuk alışı",
+            "shop_url": "https://lalafo.az/user/8689595",
+            "mobile_numbers": [
+                "+994555419302"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 225
+        },
+        {
+            "seller_id": "11477992",
+            "shop_name": "Nərmin",
+            "shop_url": "https://lalafo.az/user/11477992",
+            "mobile_numbers": [
+                "+994557054050"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 2467
+        },
+        {
+            "seller_id": "13088179",
+            "shop_name": "Oksigen balonu",
+            "shop_url": "https://lalafo.az/user/13088179",
+            "mobile_numbers": [
+                "+994554708887"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 45
+        },
+        {
+            "seller_id": "2827843",
+            "shop_name": "OKSİGEN",
+            "shop_url": "https://lalafo.az/user/2827843",
+            "mobile_numbers": [
+                "+994554443521"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 467
+        },
+        {
+            "seller_id": "10691107",
+            "shop_name": "Orxan Mehraliyev",
+            "shop_url": "https://lalafo.az/user/10691107",
+            "mobile_numbers": [
+                "+994508974486"
+            ],
+            "categories": [
+                "Daşınmaz əmlak",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 134
+        },
+        {
+            "seller_id": "14413161",
+            "shop_name": "OZCO AZERBAYCAN",
+            "shop_url": "https://lalafo.az/user/14413161",
+            "mobile_numbers": [
+                "+994512803314"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 134
+        },
+        {
+            "seller_id": "2695743",
+            "shop_name": "pashamamedov",
+            "shop_url": "https://lalafo.az/user/2695743",
+            "mobile_numbers": [
+                "+994702207172"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "İdman və hobbi"
+            ],
+            "ads_count": 931
+        },
+        {
+            "seller_id": "6936614",
+            "shop_name": "Peşekar mətbəx ve senaye tipli avadanliqlar",
+            "shop_url": "https://lalafo.az/user/6936614",
+            "mobile_numbers": [
+                "+994776065414"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 813
+        },
+        {
+            "seller_id": "3105367",
+            "shop_name": "Piano World BAKU",
+            "shop_url": "https://lalafo.az/pianoworld",
+            "mobile_numbers": [
+                "+994504378385",
+                "+994704378385",
+                "+994518378385",
+                "+994557792385"
+            ],
+            "categories": [
+                "İdman və hobbi"
+            ],
+            "ads_count": 744
+        },
+        {
+            "seller_id": "9269925",
+            "shop_name": "Planşet | Proyektor | Smartsaat | Qulaqlıq | Aksesuar",
+            "shop_url": "https://lalafo.az/user/9269925",
+            "mobile_numbers": [
+                "+994773270664"
+            ],
+            "categories": [
+                "Elektronika",
+                "Şəxsi əşyalar"
+            ],
+            "ads_count": 235
+        },
+        {
+            "seller_id": "17406192",
+            "shop_name": "plastik yeşik. çanta poverbank Nauşnik Qulaqlıq.dinamik",
+            "shop_url": "https://lalafo.az/user/17406192",
+            "mobile_numbers": [
+                "+994 10 321 58 81"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Ev və bağ",
+                "Şəxsi əşyalar",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 6281
+        },
+        {
+            "seller_id": "14403561",
+            "shop_name": "PLAY HOUSE",
+            "shop_url": "https://lalafo.az/user/14403561",
+            "mobile_numbers": [
+                "+994514298434"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 23
+        },
+        {
+            "seller_id": "3414780",
+            "shop_name": "Polad İnşaat",
+            "shop_url": "https://lalafo.az/user/3414780",
+            "mobile_numbers": [
+                "+994504090808"
+            ],
+            "categories": [
+                "Təmir və tikinti"
+            ],
+            "ads_count": 31
+        },
+        {
+            "seller_id": "7383602",
+            "shop_name": "PolatoğluTech Industrial",
+            "shop_url": "https://lalafo.az/user/7383602",
+            "mobile_numbers": [
+                "+994777600666"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq"
+            ],
+            "ads_count": 98
+        },
+        {
+            "seller_id": "15043754",
+            "shop_name": "Power tools",
+            "shop_url": "https://lalafo.az/user/15043754",
+            "mobile_numbers": [
+                "+994554211476"
+            ],
+            "categories": [
+                "Təmir və tikinti"
+            ],
+            "ads_count": 2411
+        },
+        {
+            "seller_id": "15136827",
+            "shop_name": "Powertech",
+            "shop_url": "https://lalafo.az/user/15136827",
+            "mobile_numbers": [
+                "+994704333239"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 33
+        },
+        {
+            "seller_id": "17070686",
+            "shop_name": "PRIOR LEASING",
+            "shop_url": "https://lalafo.az/user/17070686",
+            "mobile_numbers": [
+                "+994508788800"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 126
+        },
+        {
+            "seller_id": "17213521",
+            "shop_name": "Prostage Səs və Səhnə Avadanlıqları",
+            "shop_url": "https://lalafo.az/user/17213521",
+            "mobile_numbers": [
+                "+994704123700"
+            ],
+            "categories": [
+                "Elektronika",
+                "İdman və hobbi"
+            ],
+            "ads_count": 181
+        },
+        {
+            "seller_id": "13702761",
+            "shop_name": "ProVision Electronis",
+            "shop_url": "https://lalafo.az/user/13702761",
+            "mobile_numbers": [
+                "+994515880800"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 471
+        },
+        {
+            "seller_id": "2702749",
+            "shop_name": "Proyektor Baku",
+            "shop_url": "https://lalafo.az/user/2702749",
+            "mobile_numbers": [
+                "+994508992022"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 100
+        },
+        {
+            "seller_id": "6966066",
+            "shop_name": "QAYA",
+            "shop_url": "https://lalafo.az/user/6966066",
+            "mobile_numbers": [
+                "+994707800078",
+                "+994555705667",
+                "+994555561601",
+                "+994557800078"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 809
+        },
+        {
+            "seller_id": "16570715",
+            "shop_name": "Qorxmaz",
+            "shop_url": "https://lalafo.az/user/16570715",
+            "mobile_numbers": [
+                "+994773023870"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Mebel"
+            ],
+            "ads_count": 96
+        },
+        {
+            "seller_id": "16379742",
+            "shop_name": "Qorxmaz",
+            "shop_url": "https://lalafo.az/user/16379742",
+            "mobile_numbers": [
+                "+994998007565"
+            ],
+            "categories": [
+                "İş"
+            ],
+            "ads_count": 51
+        },
+        {
+            "seller_id": "6685462",
+            "shop_name": "Qurtuluş əmlak",
+            "shop_url": "https://lalafo.az/user/6685462",
+            "mobile_numbers": [
+                "+994502027225"
+            ],
+            "categories": [
+                "Daşınmaz əmlak"
+            ],
+            "ads_count": 601
+        },
+        {
+            "seller_id": "13799808",
+            "shop_name": "Rahat Kredit Lombard",
+            "shop_url": "https://lalafo.az/user/13799808",
+            "mobile_numbers": [
+                "+994505496660"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 21
+        },
+        {
+            "seller_id": "15879264",
+            "shop_name": "rais",
+            "shop_url": "https://lalafo.az/user/15879264",
+            "mobile_numbers": [
+                "+994514076190"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 173
+        },
+        {
+            "seller_id": "7083884",
+            "shop_name": "Ramin",
+            "shop_url": "https://lalafo.az/user/7083884",
+            "mobile_numbers": [
+                "+994556814445"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 13
+        },
+        {
+            "seller_id": "7142973",
+            "shop_name": "Rast Musiqi alətləri mağazası",
+            "shop_url": "https://lalafo.az/user/7142973",
+            "mobile_numbers": [
+                "+994554506071"
+            ],
+            "categories": [
+                "Elektronika",
+                "İdman və hobbi"
+            ],
+            "ads_count": 2207
+        },
+        {
+            "seller_id": "8681845",
+            "shop_name": "Rauf Rəsulzadə",
+            "shop_url": "https://lalafo.az/user/8681845",
+            "mobile_numbers": [
+                "+994773463539",
+                "+994506851936"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 136
+        },
+        {
+            "seller_id": "7682447",
+            "shop_name": "Razin Store",
+            "shop_url": "https://lalafo.az/user/7682447",
+            "mobile_numbers": [
+                "+994554345909"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 423
+        },
+        {
+            "seller_id": "2963275",
+            "shop_name": "RESTORAN AVADANLIQLARI",
+            "shop_url": "https://lalafo.az/user/2963275",
+            "mobile_numbers": [
+                "+994506004411"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Elektronika",
+                "Ev və bağ"
+            ],
+            "ads_count": 108
+        },
+        {
+            "seller_id": "14142473",
+            "shop_name": "RF inşaat  topdan xirdavat",
+            "shop_url": "https://lalafo.az/user/14142473",
+            "mobile_numbers": [
+                "+994504093030"
+            ],
+            "categories": [
+                "Elektronika",
+                "İş",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 569
+        },
+        {
+            "seller_id": "8830457",
+            "shop_name": "Rovsen",
+            "shop_url": "https://lalafo.az/user/8830457",
+            "mobile_numbers": [
+                "+994708965666"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 45
+        },
+        {
+            "seller_id": "3027375",
+            "shop_name": "ROYAL musiqi alətləri mağazalar şəbəkəsi",
+            "shop_url": "https://lalafo.az/royal",
+            "mobile_numbers": [
+                "+994503877383",
+                "+994555918091",
+                "+994705380909",
+                "+994504040999"
+            ],
+            "categories": [
+                "İdman və hobbi"
+            ],
+            "ads_count": 4064
+        },
+        {
+            "seller_id": "3301732",
+            "shop_name": "Ruslan Huseynov",
+            "shop_url": "https://lalafo.az/user/3301732",
+            "mobile_numbers": [
+                "+994553681067"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 31
+        },
+        {
+            "seller_id": "2770165",
+            "shop_name": "Rustem",
+            "shop_url": "https://lalafo.az/user/2770165",
+            "mobile_numbers": [
+                "+994558227382"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 90
+        },
+        {
+            "seller_id": "16126937",
+            "shop_name": "Rüstəm",
+            "shop_url": "https://lalafo.az/user/16126937",
+            "mobile_numbers": [
+                "+994702046263"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 439
+        },
+        {
+            "seller_id": "9518464",
+            "shop_name": "SAAS.HOME",
+            "shop_url": "https://lalafo.az/user/9518464",
+            "mobile_numbers": [
+                "+994706768600"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 3521
+        },
+        {
+            "seller_id": "11602132",
+            "shop_name": "sahib",
+            "shop_url": "https://lalafo.az/user/11602132",
+            "mobile_numbers": [
+                "+994558996997",
+                "+994707699997"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 949
+        },
+        {
+            "seller_id": "11998997",
+            "shop_name": "Sahil Nutrition® /İdman Qidaları mağazası",
+            "shop_url": "https://lalafo.az/user/11998997",
+            "mobile_numbers": [
+                "+994558220503"
+            ],
+            "categories": [
+                "İdman və hobbi"
+            ],
+            "ads_count": 263
+        },
+        {
+            "seller_id": "13595443",
+            "shop_name": "Sahmar",
+            "shop_url": "https://lalafo.az/user/13595443",
+            "mobile_numbers": [
+                "+994556297656",
+                "+994706297656"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 17
+        },
+        {
+            "seller_id": "15836119",
+            "shop_name": "Sara",
+            "shop_url": "https://lalafo.az/user/15836119",
+            "mobile_numbers": [
+                "+994558727149"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Daşınmaz əmlak",
+                "Elektronika",
+                "İdman və hobbi",
+                "Mebel",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 5337
+        },
+        {
+            "seller_id": "2868401",
+            "shop_name": "SAUNA TİKİNTİSi VƏ SAUNA MATERİYALLARININ SATIŞI.",
+            "shop_url": "https://lalafo.az/user/2868401",
+            "mobile_numbers": [
+                "+994556765538",
+                "+994772772227"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Daşınmaz əmlak",
+                "Ev və bağ",
+                "İş",
+                "Mebel",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 217
+        },
+        {
+            "seller_id": "13154394",
+            "shop_name": "SAĞLAMLİQ 7/24",
+            "shop_url": "https://lalafo.az/user/13154394",
+            "mobile_numbers": [
+                "+994516136899",
+                "+994702404402"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 1431
+        },
+        {
+            "seller_id": "10696199",
+            "shop_name": "semih",
+            "shop_url": "https://lalafo.az/user/10696199",
+            "mobile_numbers": [
+                "+994557080585"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 47
+        },
+        {
+            "seller_id": "12104431",
+            "shop_name": "Sexdən satış",
+            "shop_url": "https://lalafo.az/user/12104431",
+            "mobile_numbers": [
+                "+994552523972",
+                "+994552526972"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel",
+                "Uşaq dünyası"
+            ],
+            "ads_count": 529
+        },
+        {
+            "seller_id": "7422782",
+            "shop_name": "Shisha style",
+            "shop_url": "https://lalafo.az/user/7422782",
+            "mobile_numbers": [
+                "+994506133138"
+            ],
+            "categories": [
+                "Şəxsi əşyalar"
+            ],
+            "ads_count": 132
+        },
+        {
+            "seller_id": "7580614",
+            "shop_name": "SHOPP_AZ_",
+            "shop_url": "https://lalafo.az/user/7580614",
+            "mobile_numbers": [
+                "+994557880045"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 1383
+        },
+        {
+            "seller_id": "11455238",
+            "shop_name": "SIMSEK LTD",
+            "shop_url": "https://lalafo.az/user/11455238",
+            "mobile_numbers": [
+                "+994777229922"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 61
+        },
+        {
+            "seller_id": "12908001",
+            "shop_name": "Sky Electronics",
+            "shop_url": "https://lalafo.az/user/12908001",
+            "mobile_numbers": [
+                "+994554244227"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 539
+        },
+        {
+            "seller_id": "17718761",
+            "shop_name": "SOLİDCORE SUPPLY LLC",
+            "shop_url": "https://lalafo.az/user/17718761",
+            "mobile_numbers": [
+                "+994102392649",
+                "+994102392648",
+                "+994102416120" 
+            ],
+            "categories": [
+                "Şəxsi əşyalar",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 71
+        },
+        {
+            "seller_id": "12877684",
+            "shop_name": "Soyuducu ve Paltaryuyan",
+            "shop_url": "https://lalafo.az/user/12877684",
+            "mobile_numbers": [
+                "+994553091852"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Elektronika"
+            ],
+            "ads_count": 65
+        },
+        {
+            "seller_id": "16380343",
+            "shop_name": "Soyuducuların satışı, alışı və təmiri",
+            "shop_url": "https://lalafo.az/user/16380343",
+            "mobile_numbers": [
+                "+994706050534"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq"
+            ],
+            "ads_count": 55
+        },
+        {
+            "seller_id": "6446968",
+            "shop_name": "Spektr Drive MMC",
+            "shop_url": "https://lalafo.az/user/6446968",
+            "mobile_numbers": [
+                "+994503703834"
+            ],
+            "categories": [
+                "Daşınmaz əmlak",
+                "Xidmətlər"
+            ],
+            "ads_count": 2163
+        },
+        {
+            "seller_id": "12589660",
+            "shop_name": "Sport Line 079",
+            "shop_url": "https://lalafo.az/user/12589660",
+            "mobile_numbers": [
+                "+994703051705"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 429
+        },
+        {
+            "seller_id": "8597660",
+            "shop_name": "Sportlive",
+            "shop_url": "https://lalafo.az/user/8597660",
+            "mobile_numbers": [
+                "+994705654445"
+            ],
+            "categories": [
+                "İdman və hobbi",
+                "Mebel"
+            ],
+            "ads_count": 667
+        },
+        {
+            "seller_id": "10027984",
+            "shop_name": "Sss",
+            "shop_url": "https://lalafo.az/user/10027984",
+            "mobile_numbers": [
+                "+994773143279"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 19
+        },
+        {
+            "seller_id": "15850254",
+            "shop_name": "StarTech_Baku",
+            "shop_url": "https://lalafo.az/user/15850254",
+            "mobile_numbers": [
+                "+994558980199"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 35
+        },
+        {
+            "seller_id": "13022405",
+            "shop_name": "Super Nox Şirketi",
+            "shop_url": "https://lalafo.az/user/13022405",
+            "mobile_numbers": [
+                "+994704777278",
+                "+994556455786",
+                "+994559023466",
+                "+994505578249"
+            ],
+            "categories": [
+                "Təmir və tikinti",
+                "Xidmətlər"
+            ],
+            "ads_count": 6475
+        },
+        {
+            "seller_id": "16379035",
+            "shop_name": "Süni_qazon_və_yaşıl_çəpər. çatdırılma və usta xidməti",
+            "shop_url": "https://lalafo.az/user/16379035",
+            "mobile_numbers": [
+                "+994773738573"
+            ],
+            "categories": [
+                "Təmir və tikinti"
+            ],
+            "ads_count": 92
+        },
+        {
+            "seller_id": "7635539",
+            "shop_name": "Sərfəli ticarət",
+            "shop_url": "https://lalafo.az/user/7635539",
+            "mobile_numbers": [
+                "+994552139083"
+            ],
+            "categories": [
+                "Şəxsi əşyalar"
+            ],
+            "ads_count": 144
+        },
+        {
+            "seller_id": "9093395",
+            "shop_name": "Taxta dipçək  dekor",
+            "shop_url": "https://lalafo.az/user/9093395",
+            "mobile_numbers": [
+                "+994507426065"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 229
+        },
+        {
+            "seller_id": "15470623",
+            "shop_name": "Taxta_sexi",
+            "shop_url": "https://lalafo.az/user/15470623",
+            "mobile_numbers": [
+                "+994559653520"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 209
+        },
+        {
+            "seller_id": "17721019",
+            "shop_name": "Technomania",
+            "shop_url": "https://lalafo.az/user/17721019",
+            "mobile_numbers": [
+                "+994708289000",
+                "+994515000020"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 79
+        },
+        {
+            "seller_id": "11453104",
+            "shop_name": "Tibbi Oksigen Balonu icarəsi və satışı",
+            "shop_url": "https://lalafo.az/user/11453104",
+            "mobile_numbers": [
+                "+994552144085"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 233
+        },
+        {
+            "seller_id": "17348358",
+            "shop_name": "Time and Tech",
+            "shop_url": "https://lalafo.az/user/17348358",
+            "mobile_numbers": [
+                "+994505290695"
+            ],
+            "categories": [
+                "Şəxsi əşyalar"
+            ],
+            "ads_count": 49
+        },
+        {
+            "seller_id": "15184841",
+            "shop_name": "TONTECH LLC",
+            "shop_url": "https://lalafo.az/user/15184841",
+            "mobile_numbers": [
+                "+994553360017"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq"
+            ],
+            "ads_count": 63
+        },
+        {
+            "seller_id": "8039532",
+            "shop_name": "TOPCU DEKOR",
+            "shop_url": "https://lalafo.az/user/8039532",
+            "mobile_numbers": [
+                "+994702527111"
+            ],
+            "categories": [
+                "Təmir və tikinti"
+            ],
+            "ads_count": 169
+        },
+        {
+            "seller_id": "12110512",
+            "shop_name": "Topdan pərakəndə stol sul sədərək",
+            "shop_url": "https://lalafo.az/user/12110512",
+            "mobile_numbers": [
+                "+994512067996"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 777
+        },
+        {
+            "seller_id": "12142876",
+            "shop_name": "Turab",
+            "shop_url": "https://lalafo.az/user/12142876",
+            "mobile_numbers": [
+                "+994513111487"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 77
+        },
+        {
+            "seller_id": "17587308",
+            "shop_name": "TUTTI Azerbaijan",
+            "shop_url": "https://lalafo.az/user/17587308",
+            "mobile_numbers": [
+                "+994516000333"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 169
+        },
+        {
+            "seller_id": "6815537",
+            "shop_name": "TV BOX ALEMI",
+            "shop_url": "https://lalafo.az/user/6815537",
+            "mobile_numbers": [
+                "+994555252635",
+                "+994515443500",
+                "+994506623264"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 146
+        },
+        {
+            "seller_id": "17597973",
+            "shop_name": "Tvim.az",
+            "shop_url": "https://lalafo.az/user/17597973",
+            "mobile_numbers": [
+                "+994102285460"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 21
+        },
+        {
+            "seller_id": "12418971",
+            "shop_name": "Təmiz dünya",
+            "shop_url": "https://lalafo.az/user/12418971",
+            "mobile_numbers": [
+                "+994518499446"
+            ],
+            "categories": [
+                "Xidmətlər"
+            ],
+            "ads_count": 43
+        },
+        {
+            "seller_id": "10428154",
+            "shop_name": "Təndir",
+            "shop_url": "https://lalafo.az/user/10428154",
+            "mobile_numbers": [
+                "+994515646498"
+            ],
+            "categories": [
+                "Heyvanlar"
+            ],
+            "ads_count": 175
+        },
+        {
+            "seller_id": "2656876",
+            "shop_name": "Ucuz qiymete  temirli ve temirsiz  heyet evleri",
+            "shop_url": "https://lalafo.az/masazirdaevler",
+            "mobile_numbers": [
+                "+994707377673",
+                "+994552111723",
+                "+994703111723"
+            ],
+            "categories": [
+                "Daşınmaz əmlak"
+            ],
+            "ads_count": 2
+        },
+        {
+            "seller_id": "12410642",
+            "shop_name": "ucuz_sifaris_nazlii",
+            "shop_url": "https://lalafo.az/user/12410642",
+            "mobile_numbers": [
+                "+994508047107"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 6243
+        },
+        {
+            "seller_id": "17188543",
+            "shop_name": "umidm2475",
+            "shop_url": "https://lalafo.az/user/17188543",
+            "mobile_numbers": [
+                "+994775403955"
+            ],
+            "categories": [
+                "İdman və hobbi"
+            ],
+            "ads_count": 11
+        },
+        {
+            "seller_id": "16422294",
+            "shop_name": "Uniset Electronics",
+            "shop_url": "https://lalafo.az/user/16422294",
+            "mobile_numbers": [
+                "+994102144323"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Elektronika",
+                "Xidmətlər"
+            ],
+            "ads_count": 1405
+        },
+        {
+            "seller_id": "13726917",
+            "shop_name": "Usta kombi kondisioner paltaryuyan ve.s",
+            "shop_url": "https://lalafo.az/user/13726917",
+            "mobile_numbers": [
+                "+994995556000",
+                "+994708214525"
+            ],
+            "categories": [
+                "Xidmətlər"
+            ],
+            "ads_count": 9
+        },
+        {
+            "seller_id": "7647603",
+            "shop_name": "Uğur inşaat",
+            "shop_url": "https://lalafo.az/user/7647603",
+            "mobile_numbers": [
+                "+994505692491",
+                "+994505692191",
+                "+994505273113"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Daşınmaz əmlak",
+                "Elektronika",
+                "Ev və bağ",
+                "İş",
+                "Mebel",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 4209
+        },
+        {
+            "seller_id": "10693159",
+            "shop_name": "uğur mebel",
+            "shop_url": "https://lalafo.az/user/10693159",
+            "mobile_numbers": [
+                "+994508718777"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 669
+        },
+        {
+            "seller_id": "10799039",
+            "shop_name": "Uşaq Aləmi / Məhsulları",
+            "shop_url": "https://lalafo.az/user/10799039",
+            "mobile_numbers": [
+                "+994708918889"
+            ],
+            "categories": [
+                "Uşaq dünyası"
+            ],
+            "ads_count": 2709
+        },
+        {
+            "seller_id": "3621605",
+            "shop_name": "VadimRustemov",
+            "shop_url": "https://lalafo.az/user/3621605",
+            "mobile_numbers": [
+                "+994703770022"
+            ],
+            "categories": [
+                "Heyvanlar"
+            ],
+            "ads_count": 69
+        },
+        {
+            "seller_id": "7891189",
+            "shop_name": "Vahid Abdullayev",
+            "shop_url": "https://lalafo.az/user/7891189",
+            "mobile_numbers": [
+                "+994507477857",
+                "+994558238232",
+                "+994552511181"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 21
+        },
+        {
+            "seller_id": "16954187",
+            "shop_name": "Valtemo RZ istilik",
+            "shop_url": "https://lalafo.az/user/16954187",
+            "mobile_numbers": [
+                "+994552674070"
+            ],
+            "categories": [
+                "Təmir və tikinti"
+            ],
+            "ads_count": 349
+        },
+        {
+            "seller_id": "7925628",
+            "shop_name": "Vasiteci Vesile.x.",
+            "shop_url": "https://lalafo.az/user/7925628",
+            "mobile_numbers": [
+                "+994708962146"
+            ],
+            "categories": [
+                "Elektronika",
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 1265
+        },
+        {
+            "seller_id": "13531045",
+            "shop_name": "Velo13",
+            "shop_url": "https://lalafo.az/user/13531045",
+            "mobile_numbers": [
+                "+994707978024"
+            ],
+            "categories": [
+                "İdman və hobbi"
+            ],
+            "ads_count": 33
+        },
+        {
+            "seller_id": "10565113",
+            "shop_name": "Velotrenajor veloxizek satisi",
+            "shop_url": "https://lalafo.az/user/10565113",
+            "mobile_numbers": [
+                "+994557667182",
+                "+994559810187",
+                "+994553654692",
+                "+994553018241"
+            ],
+            "categories": [
+                "İdman və hobbi"
+            ],
+            "ads_count": 6261
+        },
+        {
+            "seller_id": "6723223",
+            "shop_name": "Vitrin soyuducular",
+            "shop_url": "https://lalafo.az/user/6723223",
+            "mobile_numbers": [
+                "+994552230145"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq"
+            ],
+            "ads_count": 789
+        },
+        {
+            "seller_id": "13475193",
+            "shop_name": "Vuqar",
+            "shop_url": "https://lalafo.az/user/13475193",
+            "mobile_numbers": [
+                "+994505194144"
+            ],
+            "categories": [
+                "Elektronika",
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 154
+        },
+        {
+            "seller_id": "13525726",
+            "shop_name": "vuqar",
+            "shop_url": "https://lalafo.az/user/13525726",
+            "mobile_numbers": [
+                "+994507781910",
+                "+994515659950"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 160
+        },
+        {
+            "seller_id": "11260500",
+            "shop_name": "Vüqar",
+            "shop_url": "https://lalafo.az/user/11260500",
+            "mobile_numbers": [
+                "+994773907595"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 61
+        },
+        {
+            "seller_id": "12957174",
+            "shop_name": "WeSTeel Metal Zavodu",
+            "shop_url": "https://lalafo.az/user/12957174",
+            "mobile_numbers": [
+                "+994708505885"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 17
+        },
+        {
+            "seller_id": "11673509",
+            "shop_name": "Wimax.az",
+            "shop_url": "https://lalafo.az/user/11673509",
+            "mobile_numbers": [
+                "+994509817196"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 9
+        },
+        {
+            "seller_id": "15515617",
+            "shop_name": "Wolt Fleet",
+            "shop_url": "https://lalafo.az/user/15515617",
+            "mobile_numbers": [
+                "+994558666063",
+                "+994504500105"
+            ],
+            "categories": [
+                "İş"
+            ],
+            "ads_count": 84
+        },
+        {
+            "seller_id": "12246441",
+            "shop_name": "Xeyyam",
+            "shop_url": "https://lalafo.az/user/12246441",
+            "mobile_numbers": [
+                "+994709716181"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 83
+        },
+        {
+            "seller_id": "2658601",
+            "shop_name": "yamaha",
+            "shop_url": "https://lalafo.az/user/2658601",
+            "mobile_numbers": [
+                "+994505399280",
+                "+994705399280"
+            ],
+            "categories": [
+                "Daşınmaz əmlak",
+                "Ev və bağ",
+                "İş"
+            ],
+            "ads_count": 142
+        },
+        {
+            "seller_id": "6211291",
+            "shop_name": "Yukdasima 043",
+            "shop_url": "https://lalafo.az/user/6211291",
+            "mobile_numbers": [
+                "+994706801753"
+            ],
+            "categories": [
+                "Nəqliyyat",
+                "Xidmətlər"
+            ],
+            "ads_count": 179
+        },
+        {
+            "seller_id": "14928406",
+            "shop_name": "Zakir Zeynalov",
+            "shop_url": "https://lalafo.az/user/14928406",
+            "mobile_numbers": [
+                "+994558199819"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 405
+        },
+        {
+            "seller_id": "2684766",
+            "shop_name": "Zaur",
+            "shop_url": "https://lalafo.az/user/2684766",
+            "mobile_numbers": [
+                "+994558757565"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 225
+        },
+        {
+            "seller_id": "13609261",
+            "shop_name": "Zemax Group",
+            "shop_url": "https://lalafo.az/user/13609261",
+            "mobile_numbers": [
+                "+994551085126"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 1009
+        },
+        {
+            "seller_id": "9603011",
+            "shop_name": "Zerin   Mebel",
+            "shop_url": "https://lalafo.az/user/9603011",
+            "mobile_numbers": [
+                "+994558833499"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel"
+            ],
+            "ads_count": 197
+        },
+        {
+            "seller_id": "9289987",
+            "shop_name": "zmv",
+            "shop_url": "https://lalafo.az/user/9289987",
+            "mobile_numbers": [
+                "+994773122444"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 142
+        },
+        {
+            "seller_id": "16846813",
+            "shop_name": "Zəfər Mebel Sifarişi / Əfsanə.x",
+            "shop_url": "https://lalafo.az/user/16846813",
+            "mobile_numbers": [
+                "+994708830860"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Mebel",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 6465
+        },
+        {
+            "seller_id": "6703411",
+            "shop_name": "ÇARPAYI ALƏMÍ👈",
+            "shop_url": "https://lalafo.az/user/6703411",
+            "mobile_numbers": [
+                "+994552971774"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Daşınmaz əmlak",
+                "Elektronika",
+                "İş",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 114
+        },
+        {
+            "seller_id": "12316139",
+            "shop_name": "Əbdülhəmid",
+            "shop_url": "https://lalafo.az/user/12316139",
+            "mobile_numbers": [
+                "+994504803774"
+            ],
+            "categories": [
+                "Elektronika"
+            ],
+            "ads_count": 75
+        },
+        {
+            "seller_id": "13739124",
+            "shop_name": "Əli",
+            "shop_url": "https://lalafo.az/user/13739124",
+            "mobile_numbers": [
+                "+994102221377"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Uşaq dünyası",
+                "Xidmətlər"
+            ],
+            "ads_count": 79
+        },
+        {
+            "seller_id": "10770127",
+            "shop_name": "Əlil Arabaları",
+            "shop_url": "https://lalafo.az/user/10770127",
+            "mobile_numbers": [
+                "+994555780896"
+            ],
+            "categories": [
+                "Tibbi məhsullar"
+            ],
+            "ads_count": 743
+        },
+        {
+            "seller_id": "12224397",
+            "shop_name": "Əziz",
+            "shop_url": "https://lalafo.az/user/12224397",
+            "mobile_numbers": [
+                "+994708760027"
+            ],
+            "categories": [
+                "Ev və bağ",
+                "Təmir və tikinti"
+            ],
+            "ads_count": 3
+        },
+        {
+            "seller_id": "11667352",
+            "shop_name": "Иса Bayram oğlu",
+            "shop_url": "https://lalafo.az/user/11667352",
+            "mobile_numbers": [
+                "+994508915596",
+                "+994508540440"
+            ],
+            "categories": [
+                "Nəqliyyat"
+            ],
+            "ads_count": 47
+        },
+        {
+            "seller_id": "11986133",
+            "shop_name": "ЛЕЙЛА САФАРАЛИЕВА",
+            "shop_url": "https://lalafo.az/user/11986133",
+            "mobile_numbers": [
+                "+994513298362",
+                "+994551000999"
+            ],
+            "categories": [
+                "Heyvanlar"
+            ],
+            "ads_count": 5
+        },
+        {
+            "seller_id": "17812006",
+            "shop_name": "Мехман",
+            "shop_url": "https://lalafo.az/user/17812006",
+            "mobile_numbers": [
+                "+994103050222"
+            ],
+            "categories": [
+                "Ev və bağ"
+            ],
+            "ads_count": 13
+        },
+        {
+            "seller_id": "13203744",
+            "shop_name": "Фуад",
+            "shop_url": "https://lalafo.az/user/13203744",
+            "mobile_numbers": [
+                "+994707289696",
+                "+994557289696"
+            ],
+            "categories": [
+                "Biznes üçün avadanlıq",
+                "Elektronika",
+                "Ev və bağ"
+            ],
+            "ads_count": 57
+        },
+        {
+            "seller_id": "17112742",
+            "shop_name": "✨PrestiJ__Emlak✨",
+            "shop_url": "https://lalafo.az/user/17112742",
+            "mobile_numbers": [
+                "+994552368255",
+                "+994552422324"
+            ],
+            "categories": [
+                "Daşınmaz əmlak"
+            ],
+            "ads_count": 77
+        },
+        {
+            "seller_id": "13357117",
+            "shop_name": "🌹Aişə Xanım🌹",
+            "shop_url": "https://lalafo.az/user/13357117",
+            "mobile_numbers": [
+                "+994557765243"
+            ],
+            "categories": [
+                "Mebel"
+            ],
+            "ads_count": 2115
+        },
+        {
+            "seller_id": "14788965",
+            "shop_name": "💻NOUTBUK ALIŞI💻",
+            "shop_url": "https://lalafo.az/user/14788965",
+            "mobile_numbers": [
+                "+994774288888"
+            ],
+            "categories": [
+                "Elektronika",
+                "Ev və bağ"
+            ],
+            "ads_count": 73
+        }
+    ]
+}
