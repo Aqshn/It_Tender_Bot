@@ -1,0 +1,33 @@
+name: Deploy to VPS
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Deploy to remote VPS via SSH
+        uses: appleboy/ssh-action@v0.1.8
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USER }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_SSH_PORT }}
+          script: |
+            set -e
+            if [ -d /opt/etender-monitor ]; then
+              cd /opt/etender-monitor
+              git fetch --all
+              git reset --hard origin/main
+            else
+              git clone https://github.com/${{ github.repository }} /opt/etender-monitor
+            fi
+            cd /opt/etender-monitor
+            chmod +x parcer/deploy_vps.sh
+            ./parcer/deploy_vps.sh
+
+# Required secrets: VPS_HOST, VPS_USER, VPS_SSH_KEY (private key), VPS_SSH_PORT (optional, default 22)
