@@ -125,9 +125,10 @@ def is_it_tender(event: dict[str, Any]) -> bool:
 def get_requests_session() -> requests.Session:
     """Create a requests Session configured with retries/backoff."""
     session = requests.Session()
+    # Use fewer total retries and shorter backoff to fail faster in CI
     retries = Retry(
-        total=5,
-        backoff_factor=1,
+        total=3,
+        backoff_factor=0.5,
         status_forcelist=(429, 500, 502, 503, 504),
         allowed_methods=("GET", "POST"),
     )
@@ -238,7 +239,9 @@ def send_telegram_message(bot_token: str, chat_id: str, message: str) -> None:
         "parse_mode": "HTML",
         "disable_web_page_preview": True,
     }
-    response = requests.post(url, json=payload, timeout=30)
+    session = get_requests_session()
+    # Use a shorter timeout in CI so failures are fast and handled upstream
+    response = session.post(url, json=payload, timeout=10)
     response.raise_for_status()
 
 
