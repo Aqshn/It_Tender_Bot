@@ -8,6 +8,8 @@ from pathlib import Path
 from typing import Any
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 
 API_URL = "https://etender.gov.az/api/events"
@@ -120,6 +122,21 @@ def is_it_tender(event: dict[str, Any]) -> bool:
     return any(keyword in haystack for keyword in IT_KEYWORDS)
 
 
+def get_requests_session() -> requests.Session:
+    """Create a requests Session configured with retries/backoff."""
+    session = requests.Session()
+    retries = Retry(
+        total=5,
+        backoff_factor=1,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=("GET", "POST"),
+    )
+    adapter = HTTPAdapter(max_retries=retries)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
+
+
 def fetch_page(page_number: int, page_size: int = 15, event_status: int = 1) -> dict[str, Any]:
     params = {
         "EventType": 2,
@@ -137,7 +154,9 @@ def fetch_page(page_number: int, page_size: int = 15, event_status: int = 1) -> 
         "IsArchived": "false",
     }
 
-    response = requests.get(API_URL, params=params, timeout=40)
+    # Use a session with retries to tolerate transient network errors
+    session = get_requests_session()
+    response = session.get(API_URL, params=params, timeout=40)
     response.raise_for_status()
     return response.json()
 
@@ -145,7 +164,15 @@ def fetch_page(page_number: int, page_size: int = 15, event_status: int = 1) -> 
 def fetch_recent_events(max_pages: int) -> list[dict[str, Any]]:
     events: list[dict[str, Any]] = []
     for page in range(1, max_pages + 1):
-        payload = fetch_page(page)
+        try:
+            payload = fetch_page(page)
+        except requests.RequestException as exc:
+            print(f"Şəbəkə xətası page={page}: {exc}. Davam etmir, toplanan nəticə qaytarılır.")
+            break
+        except Exception as exc:
+            print(f"Naməlum xəta page={page}: {exc}. Davam etmir.")
+            break
+
         page_items = payload.get("items", [])
         if not page_items:
             break
@@ -222,7 +249,7 @@ def process_once(
     dry_run: bool,
     notify_existing: bool,
     bot_token: str | None,
-    chat_id: str | None,
+    chat_ids: list[str] | None,
 ) -> int:
     state = load_state(state_path)
     last_seen_event_id = int(state.get("last_seen_event_id") or 0)
@@ -252,8 +279,8 @@ def process_once(
     else:
         print(f"{len(new_events)} yeni IT tender tapıldı.")
 
-    if not dry_run and (not bot_token or not chat_id):
-        print("XƏTA: TELEGRAM_BOT_TOKEN və TELEGRAM_CHAT_ID tələb olunur.")
+    if not dry_run and (not bot_token or not chat_ids):
+        print("XƏTA: TELEGRAM_BOT_TOKEN və ən azı bir TELEGRAM_CHAT_ID tələb olunur.")
         return 2
 
     for event in new_events:
@@ -262,11 +289,12 @@ def process_once(
             print("-" * 80)
             print(msg)
         else:
-            try:
-                send_telegram_message(bot_token=bot_token or "", chat_id=chat_id or "", message=msg)
-                print(f"Göndərildi: {event.get('eventId')} -> {event.get('eventName', '')}")
-            except requests.RequestException as exc:
-                print(f"Telegram göndəriş xətası (eventId={event.get('eventId')}): {exc}")
+            for cid in chat_ids or []:
+                try:
+                    send_telegram_message(bot_token=bot_token or "", chat_id=cid, message=msg)
+                    print(f"Göndərildi: {event.get('eventId')} -> {event.get('eventName', '')} (chat_id={cid})")
+                except requests.RequestException as exc:
+                    print(f"Telegram göndəriş xətası (eventId={event.get('eventId')}, chat_id={cid}): {exc}")
 
     state["last_seen_event_id"] = newest_cursor
     state["last_check"] = now_utc_iso()
@@ -321,7 +349,9 @@ def main() -> int:
     max_pages = max(args.pages, 1)
 
     bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
-    chat_id = os.getenv("TELEGRAM_CHAT_ID")
+    # Support multiple chat IDs via TELEGRAM_CHAT_IDS (comma-separated) or single TELEGRAM_CHAT_ID
+    chat_ids_env = os.getenv("TELEGRAM_CHAT_IDS") or os.getenv("TELEGRAM_CHAT_ID")
+    chat_ids = [c.strip() for c in (chat_ids_env or "").split(",") if c.strip()]
 
     if args.once:
         return process_once(
@@ -330,7 +360,7 @@ def main() -> int:
             dry_run=args.dry_run,
             notify_existing=args.notify_existing,
             bot_token=bot_token,
-            chat_id=chat_id,
+            chat_ids=chat_ids,
         )
 
     print(f"Monitor başladı. Interval: {args.interval}s | Pages: {max_pages}")
@@ -342,7 +372,7 @@ def main() -> int:
                 dry_run=args.dry_run,
                 notify_existing=args.notify_existing,
                 bot_token=bot_token,
-                chat_id=chat_id,
+                chat_ids=chat_ids,
             )
         except requests.RequestException as exc:
             print(f"Şəbəkə xətası: {exc}")
