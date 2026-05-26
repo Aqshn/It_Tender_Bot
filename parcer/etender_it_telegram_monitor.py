@@ -3,6 +3,7 @@ import json
 import os
 import sys
 import time
+import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -10,6 +11,11 @@ from typing import Any
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+
+try:
+    from rapidfuzz import fuzz
+except ImportError:  # pragma: no cover - fallback for environments without rapidfuzz
+    fuzz = None
 
 
 API_URL = "https://etender.gov.az/api/events"
@@ -112,14 +118,56 @@ def now_utc_iso() -> str:
 
 
 def normalize_text(value: str) -> str:
-    return " ".join((value or "").lower().split())
+    return " ".join(fold_text(value or "").split())
+
+
+def fold_text(value: str) -> str:
+    """Normalize text and remove Azerbaijani/Unicode accents for matching."""
+    text = value.lower()
+    translation_table = str.maketrans(
+        {
+            "ə": "e",
+            "ö": "o",
+            "ü": "u",
+            "ğ": "g",
+            "ş": "s",
+            "ç": "c",
+            "ı": "i",
+            "İ": "i",
+        }
+    )
+    text = text.translate(translation_table)
+    text = unicodedata.normalize("NFKD", text)
+    return "".join(character for character in text if not unicodedata.combining(character))
+
+
+def fuzzy_keyword_match(haystack: str, keywords: list[str], threshold: int = 85) -> bool:
+    """Return True when a keyword is present or close enough to a keyword in the text."""
+    if not haystack:
+        return False
+
+    haystack_folded = fold_text(haystack)
+
+    if any(fold_text(keyword) in haystack_folded for keyword in keywords):
+        return True
+
+    if fuzz is None:
+        return False
+
+    for keyword in keywords:
+        keyword_folded = fold_text(keyword)
+        if fuzz.partial_ratio(haystack_folded, keyword_folded) >= threshold:
+            return True
+        if fuzz.token_set_ratio(haystack_folded, keyword_folded) >= threshold:
+            return True
+    return False
 
 
 def is_it_tender(event: dict[str, Any]) -> bool:
     haystack = normalize_text(
         f"{event.get('eventName', '')} {event.get('buyerOrganizationName', '')}"
     )
-    return any(keyword in haystack for keyword in IT_KEYWORDS)
+    return fuzzy_keyword_match(haystack, IT_KEYWORDS)
 
 
 def get_requests_session() -> requests.Session:
