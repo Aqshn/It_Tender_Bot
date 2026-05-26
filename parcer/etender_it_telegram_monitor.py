@@ -22,89 +22,98 @@ API_URL = "https://etender.gov.az/api/events"
 DETAIL_URL_TEMPLATE = "https://etender.gov.az/main/competition/detail/{event_id}"
 
 IT_KEYWORDS = [
-    "kompüter",
-    "komputer",
     "proqram",
     "proqram təminatı",
-    "it",
-    "informasiya",
-    "telekommunikasiya",
-    "server",
-    "şəbəkə",
-    "sebeke",
-    "data",
-    "kiber",
-    "software",
-    "hardware",
-    "lisenziya",
-    "license",
-    "texniki dəstək",
-    "printer",
-    "noutbuk",
-    "notebook",
-    "surətçıxaran aparat",
-    "şəbəkə avadanlığı",
-    "rabitə avadanlığı",
-    "ups",
-    "proyektor",
-    "monitor",
-    "planşet",
-    "texniki avadanlıq",
-    "ehtiyat hissələri",
-    "kartric",
-    "toner tozu",
     "proqram təminatı (software)",
-    "proqram təminatı",
-    "lisenziya",
-    "antivirus",
-    "əməliyyat sistemi",
-    "ofis proqramı",
-    "1C",
-    "ERP sistemi",
-    "CRM sistemi",
+    "software",
+    "tətbiq inkişafı",
+    "mobil tətbiq",
+    "web app",
+    "veb proqramlaşdırma",
+    "saytın hazırlanması",
+    "api",
+    "api development",
+    "backend",
+    "frontend",
+    "microservice",
+    "devops",
+    "ci/cd",
+    "docker",
+    "kubernetes",
+    "cloud",
+    "bulud texnologiyaları",
+    "saas",
+    "paas",
+    "hosting xidməti",
+    "hosting",
     "verilənlər bazası",
+    "məlumat bazasının idarəsi",
+    "database",
+    "sql",
+    "nosql",
     "proqram platforması",
     "tətbiqi proqram",
     "proqram hazırlanması",
-    "it xidmətlər",
-    "saytın hazırlanması",
-    "mobil tətbiq",
-    "veb proqramlaşdırma",
-    "informasiya sistemi",
-    "elektron xidmətlər portalı",
-    "texniki dəstək",
-    "xidmətin dəstəklənməsi",
-    "texniki xidmət",
+    "1C",
+    "ERP sistemi",
+    "CRM sistemi",
+    "lisenziya",
+    "license",
+    "antivirus",
+    "əməliyyat sistemi",
+    "ofis proqramı",
     "inteqrasiya",
     "avtomatlaşdırma",
     "rəqəmsallaşdırma",
+    "elektron xidmətlər",
     "elektron hökumət",
-    "məlumat mübadiləsi sistemi",
-    "seo xidməti",
-    "kibertəhlükəsizlik",
-    "informasiya təhlükəsizliyi",
-    "firewall",
-    "şifrələmə",
-    "monitoring sistemi",
-    "infrastruktur / bulud",
-    "bulud texnologiyaları",
-    "data mərkəzi",
-    "şəbəkə infrastrukturu",
-    "hosting xidməti",
-    "domenin qeydiyyatı",
-    "internet xətti",
-    "strukturlaşdırılmış kabel sistemi",
-    "IP kamera sistemi",
-    "video nəzarət",
-    "giriş nəzarəti",
-    "analitika / məlumat",
-    "menecment informasiya sistemi",
+    "analitika",
+    "data",
     "böyük verilənlər",
     "süni intellekt",
-    "elektron sənəd dövriyyəsi",
-    "arxiv sistemi",
-    "məlumat bazasının idarəsi"
+    "machine learning",
+    "ai",
+    "data engineering",
+    "data science",
+    "monitoring sistemi",
+    "loglama",
+    "observability",
+    "deployment",
+    "automation",
+    "testing",
+    "quality assurance",
+    "ux",
+    "ui",
+    "user interface",
+    "user experience",
+    "application",
+    "software solution",
+    "software service",
+    "integration service",
+    "data pipeline",
+    "software development",
+    "platform",
+    "deployment",
+]
 
+# Scoring thresholds and weights for combined fuzzy matching
+FUZZY_THRESHOLD = 75
+TITLE_WEIGHT = 0.6
+DESC_WEIGHT = 0.3
+BUYER_WEIGHT = 0.1
+
+# Keywords that indicate cyber-security / attack topics which we want to exclude
+EXCLUDE_KEYWORDS = [
+    "hücum",
+    "hucum",
+    "hacker",
+    "haker",
+    "kiber",
+    "kiberhücum",
+    "cyber",
+    "siber",
+    "saldırı",
+    "saldiri",
 ]
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -163,11 +172,79 @@ def fuzzy_keyword_match(haystack: str, keywords: list[str], threshold: int = 85)
     return False
 
 
-def is_it_tender(event: dict[str, Any]) -> bool:
-    haystack = normalize_text(
-        f"{event.get('eventName', '')} {event.get('buyerOrganizationName', '')}"
+def compute_field_score(text: str, keywords: list[str]) -> int:
+    """Compute best fuzzy score (0-100) for a text against keywords."""
+    if not text:
+        return 0
+    folded = fold_text(text)
+    # exact substring match is highest confidence
+    for kw in keywords:
+        if fold_text(kw) in folded:
+            return 100
+    if fuzz is None:
+        return 0
+    best = 0
+    for kw in keywords:
+        kf = fold_text(kw)
+        try:
+            best = max(
+                best,
+                fuzz.partial_ratio(folded, kf),
+                fuzz.token_set_ratio(folded, kf),
+                fuzz.ratio(folded, kf),
+            )
+        except Exception:
+            continue
+    return int(best)
+
+
+def compute_it_score(event: dict[str, Any]) -> float:
+    """Compute a weighted IT-match score (0-100) from title, description, buyer."""
+    title = event.get("eventName", "") or ""
+    # try common description keys returned by API
+    desc = (
+        event.get("eventDescription")
+        or event.get("description")
+        or event.get("shortDescription")
+        or ""
     )
-    return fuzzy_keyword_match(haystack, IT_KEYWORDS)
+    buyer = event.get("buyerOrganizationName", "") or ""
+
+    title_score = compute_field_score(title, IT_KEYWORDS)
+    desc_score = compute_field_score(desc, IT_KEYWORDS)
+    buyer_score = compute_field_score(buyer, IT_KEYWORDS)
+
+    combined = (
+        title_score * TITLE_WEIGHT
+        + desc_score * DESC_WEIGHT
+        + buyer_score * BUYER_WEIGHT
+    )
+    return combined
+
+
+def is_it_tender(event: dict[str, Any]) -> bool:
+    # If event contains exclusion keywords (cyber-attack/security specific), skip
+    haystack_raw = f"{event.get('eventName', '')} {event.get('buyerOrganizationName', '')} {event.get('eventDescription', '')}"
+    haystack_folded = fold_text(haystack_raw)
+    for ex in EXCLUDE_KEYWORDS:
+        if ex and ex in haystack_folded:
+            return False
+
+    # First try direct combined fields and exact/fuzzy matches with scoring
+    combined_score = compute_it_score(event)
+    if combined_score >= FUZZY_THRESHOLD:
+        return True
+
+    # Fallback: check concatenated haystack for direct keyword presence or high fuzzy match
+    haystack = normalize_text(
+        f"{event.get('eventName', '')} {event.get('buyerOrganizationName', '')} {event.get('eventDescription', '')}"
+    )
+    # direct substring match
+    if any(fold_text(k) in fold_text(haystack) for k in IT_KEYWORDS):
+        return True
+
+    # final fuzzy check with higher threshold
+    return fuzzy_keyword_match(haystack, IT_KEYWORDS, threshold=90)
 
 
 def get_requests_session() -> requests.Session:
