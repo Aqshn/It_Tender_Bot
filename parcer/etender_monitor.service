@@ -1,0 +1,14 @@
+[Unit]
+Description=eTender IT Monitor Service
+After=network.target
+
+[Service]
+Type=simple
+User=%i
+WorkingDirectory=/opt/etender-monitor
+EnvironmentFile=/opt/etender-monitor/.env
+ExecStart=/opt/etender-monitor/.venv/bin/python parcer/etender_it_telegram_monitor.py --once --pages 3 --state-file parcer/.etender_it_state.json
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

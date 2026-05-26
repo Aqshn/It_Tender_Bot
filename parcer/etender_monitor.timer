@@ -1,0 +1,10 @@
+[Unit]
+Description=Run eTender IT Monitor every 5 minutes
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=5min
+Unit=etender-monitor.service
+
+[Install]
+WantedBy=timers.target
